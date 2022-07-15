@@ -1,0 +1,163 @@
+digraph {
+	node1 [label="[in: ]
+node1 -- Input0"]
+	node2 [label="[in: node1]
+node2 -- GPT2Embeddings(config=config)"]
+	node3 [label="[in: node2]
+node3 -- GPT2Layer(config=config)"]
+	node4 [label="[in: node3]
+node4 -- GPT2Layer(config=config)"]
+	node5 [label="[in: node4]
+node5 -- GPT2Layer(config=config)"]
+	node6 [label="[in: node5]
+node6 -- GPT2Layer(config=config)"]
+	node7 [label="[in: node6]
+node7 -- GPT2Layer(config=config)"]
+	node8 [label="[in: node7]
+node8 -- GPT2Layer(config=config)"]
+	node9 [label="[in: node8]
+node9 -- GPT2Layer(config=config)"]
+	node10 [label="[in: node9]
+node10 -- GPT2Layer(config=config)"]
+	node11 [label="[in: node10]
+node11 -- GPT2Layer(config=config)"]
+	node12 [label="[in: node11]
+node12 -- GPT2Layer(config=config)"]
+	node13 [label="[in: node12]
+node13 -- GPT2Layer(config=config)"]
+	node14 [label="[in: node13]
+node14 -- GPT2Layer(config=config)"]
+	node15 [label="[in: node14]
+node15 -- GPT2Layer(config=config)"]
+	node16 [label="[in: node15]
+node16 -- GPT2Layer(config=config)"]
+	node17 [label="[in: node16]
+node17 -- GPT2Layer(config=config)"]
+	node18 [label="[in: node17]
+node18 -- GPT2Layer(config=config)"]
+	node19 [label="[in: node18]
+node19 -- GPT2Layer(config=config)"]
+	node20 [label="[in: node19]
+node20 -- GPT2Layer(config=config)"]
+	node21 [label="[in: node20]
+node21 -- GPT2Layer(config=config)"]
+	node22 [label="[in: node21]
+node22 -- GPT2Layer(config=config)"]
+	node23 [label="[in: node22]
+node23 -- GPT2Layer(config=config)"]
+	node24 [label="[in: node23]
+node24 -- GPT2Layer(config=config)"]
+	node25 [label="[in: node24]
+node25 -- GPT2Layer(config=config)"]
+	node26 [label="[in: node25]
+node26 -- GPT2Layer(config=config)"]
+	node27 [label="[in: node26]
+node27 -- GPT2Layer(config=config)"]
+	node28 [label="[in: node27]
+node28 -- GPT2Layer(config=config)"]
+	node29 [label="[in: node28]
+node29 -- GPT2Layer(config=config)"]
+	node30 [label="[in: node29]
+node30 -- GPT2Layer(config=config)"]
+	node31 [label="[in: node30]
+node31 -- GPT2Layer(config=config)"]
+	node32 [label="[in: node31]
+node32 -- GPT2Layer(config=config)"]
+	node33 [label="[in: node32]
+node33 -- GPT2Layer(config=config)"]
+	node34 [label="[in: node33]
+node34 -- GPT2Layer(config=config)"]
+	node35 [label="[in: node34]
+node35 -- GPT2Layer(config=config)"]
+	node36 [label="[in: node35]
+node36 -- GPT2Layer(config=config)"]
+	node37 [label="[in: node36]
+node37 -- GPT2Layer(config=config)"]
+	node38 [label="[in: node37]
+node38 -- GPT2Layer(config=config)"]
+	node39 [label="[in: node38]
+node39 -- GPT2Layer(config=config)"]
+	node40 [label="[in: node39]
+node40 -- GPT2Layer(config=config)"]
+	node41 [label="[in: node40]
+node41 -- GPT2Layer(config=config)"]
+	node42 [label="[in: node41]
+node42 -- GPT2Layer(config=config)"]
+	node43 [label="[in: node42]
+node43 -- GPT2Layer(config=config)"]
+	node44 [label="[in: node43]
+node44 -- GPT2Layer(config=config)"]
+	node45 [label="[in: node44]
+node45 -- GPT2Layer(config=config)"]
+	node46 [label="[in: node45]
+node46 -- GPT2Layer(config=config)"]
+	node47 [label="[in: node46]
+node47 -- GPT2Layer(config=config)"]
+	node48 [label="[in: node47]
+node48 -- GPT2Layer(config=config)"]
+	node49 [label="[in: node48]
+node49 -- GPT2Layer(config=config)"]
+	node50 [label="[in: node49]
+node50 -- GPT2Layer(config=config)"]
+	node51 [label="[in: node50]
+node51 -- GPT2Layer(config=config)"]
+	node52 [label="[in: node51]
+node52 -- GPT2Layer(config=config)"]
+	node53 [label="[in: node52]
+node53 -- GPT2LayerNorm(config=config)"]
+	node54 [label="[in: node53]
+node54 -- GPT2LMHead(config=config)"]
+	node1 -> node2
+	node2 -> node3
+	node3 -> node4
+	node4 -> node5
+	node5 -> node6
+	node6 -> node7
+	node7 -> node8
+	node8 -> node9
+	node9 -> node10
+	node10 -> node11
+	node11 -> node12
+	node12 -> node13
+	node13 -> node14
+	node14 -> node15
+	node15 -> node16
+	node16 -> node17
+	node17 -> node18
+	node18 -> node19
+	node19 -> node20
+	node20 -> node21
+	node21 -> node22
+	node22 -> node23
+	node23 -> node24
+	node24 -> node25
+	node25 -> node26
+	node26 -> node27
+	node27 -> node28
+	node28 -> node29
+	node29 -> node30
+	node30 -> node31
+	node31 -> node32
+	node32 -> node33
+	node33 -> node34
+	node34 -> node35
+	node35 -> node36
+	node36 -> node37
+	node37 -> node38
+	node38 -> node39
+	node39 -> node40
+	node40 -> node41
+	node41 -> node42
+	node42 -> node43
+	node43 -> node44
+	node44 -> node45
+	node45 -> node46
+	node46 -> node47
+	node47 -> node48
+	node48 -> node49
+	node49 -> node50
+	node50 -> node51
+	node51 -> node52
+	node52 -> node53
+	node53 -> node54
+}

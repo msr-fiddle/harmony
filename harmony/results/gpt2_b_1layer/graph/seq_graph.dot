@@ -1,0 +1,16 @@
+digraph {
+	node2 [label="[in: node1]
+node2 -- GPT2Embeddings(config=config) (vLayer 0)" color=lightblue style=filled]
+	node3 [label="[in: node2]
+node3 -- GPT2Layer(config=config) (vLayer 1)" color=green style=filled]
+	node4 [label="[in: node3]
+node4 -- GPT2LayerNorm(config=config) (vLayer 2)" color=grey style=filled]
+	node5 [label="[in: node4]
+node5 -- GPT2LMHead(config=config) (vLayer 3)" color=firebrick1 style=filled]
+	node1 [label="[in: ]
+node1 -- Input0 (vLayer 0)" color=lightblue style=filled]
+	node1 -> node2
+	node2 -> node3
+	node3 -> node4
+	node4 -> node5
+}

@@ -1,0 +1,107 @@
+node2 -- GPT2Embeddings(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=0
+node3 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=1
+node4 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=2
+node5 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=3
+node6 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=4
+node7 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=5
+node8 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=6
+node9 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=7
+node10 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=8
+node11 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=9
+node12 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=10
+node13 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=11
+node14 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=12
+node15 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=13
+node16 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=14
+node17 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=15
+node18 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=16
+node19 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=17
+node20 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=18
+node21 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=19
+node22 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=20
+node23 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=21
+node24 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=22
+node25 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=23
+node26 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=24
+node27 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=25
+node28 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=26
+node29 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=27
+node30 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=28
+node31 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=29
+node32 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=30
+node33 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=31
+node34 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=32
+node35 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=33
+node36 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=34
+node37 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=35
+node38 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=36
+node39 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=37
+node40 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=38
+node41 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=39
+node42 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=40
+node43 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=41
+node44 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=42
+node45 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=43
+node46 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=44
+node47 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=45
+node48 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=46
+node49 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=47
+node50 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=48
+node51 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=49
+node52 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=50
+node53 -- GPT2LayerNorm(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=51
+node54 -- GPT2LMHead(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=52
+node1 -- Input0 -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=0
+	node1 -- node2
+	node2 -- node3
+	node3 -- node4
+	node4 -- node5
+	node5 -- node6
+	node6 -- node7
+	node7 -- node8
+	node8 -- node9
+	node9 -- node10
+	node10 -- node11
+	node11 -- node12
+	node12 -- node13
+	node13 -- node14
+	node14 -- node15
+	node15 -- node16
+	node16 -- node17
+	node17 -- node18
+	node18 -- node19
+	node19 -- node20
+	node20 -- node21
+	node21 -- node22
+	node22 -- node23
+	node23 -- node24
+	node24 -- node25
+	node25 -- node26
+	node26 -- node27
+	node27 -- node28
+	node28 -- node29
+	node29 -- node30
+	node30 -- node31
+	node31 -- node32
+	node32 -- node33
+	node33 -- node34
+	node34 -- node35
+	node35 -- node36
+	node36 -- node37
+	node37 -- node38
+	node38 -- node39
+	node39 -- node40
+	node40 -- node41
+	node41 -- node42
+	node42 -- node43
+	node43 -- node44
+	node44 -- node45
+	node45 -- node46
+	node46 -- node47
+	node47 -- node48
+	node48 -- node49
+	node49 -- node50
+	node50 -- node51
+	node51 -- node52
+	node52 -- node53
+	node53 -- node54

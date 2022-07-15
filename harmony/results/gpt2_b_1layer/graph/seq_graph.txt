@@ -1,0 +1,9 @@
+node2 -- GPT2Embeddings(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=0
+node3 -- GPT2Layer(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=1
+node4 -- GPT2LayerNorm(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=2
+node5 -- GPT2LMHead(config=config) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=3
+node1 -- Input0 -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000 -- vlayer_id=0
+	node1 -- node2
+	node2 -- node3
+	node3 -- node4
+	node4 -- node5

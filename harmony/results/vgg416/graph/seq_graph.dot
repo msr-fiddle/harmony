@@ -1,0 +1,1252 @@
+digraph {
+	node2 [label="[in: node1]
+node2 -- ConvLayer(in_channels=3, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 0)" color=lightblue style=filled]
+	node3 [label="[in: node2]
+node3 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 1)" color=green style=filled]
+	node4 [label="[in: node3]
+node4 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 2)" color=grey style=filled]
+	node5 [label="[in: node4]
+node5 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 3)" color=firebrick1 style=filled]
+	node6 [label="[in: node5]
+node6 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 4)" color=gold style=filled]
+	node7 [label="[in: node6]
+node7 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 5)" color=chocolate1 style=filled]
+	node8 [label="[in: node7]
+node8 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 6)" color=beige style=filled]
+	node9 [label="[in: node8]
+node9 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 7)" color=lightblue style=filled]
+	node10 [label="[in: node9]
+node10 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 8)" color=green style=filled]
+	node11 [label="[in: node10]
+node11 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 9)" color=grey style=filled]
+	node12 [label="[in: node11]
+node12 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 10)" color=firebrick1 style=filled]
+	node13 [label="[in: node12]
+node13 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 11)" color=gold style=filled]
+	node14 [label="[in: node13]
+node14 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 12)" color=chocolate1 style=filled]
+	node15 [label="[in: node14]
+node15 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 13)" color=beige style=filled]
+	node16 [label="[in: node15]
+node16 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 14)" color=lightblue style=filled]
+	node17 [label="[in: node16]
+node17 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 15)" color=green style=filled]
+	node18 [label="[in: node17]
+node18 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 16)" color=grey style=filled]
+	node19 [label="[in: node18]
+node19 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 17)" color=firebrick1 style=filled]
+	node20 [label="[in: node19]
+node20 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 18)" color=gold style=filled]
+	node21 [label="[in: node20]
+node21 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 19)" color=chocolate1 style=filled]
+	node22 [label="[in: node21]
+node22 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 20)" color=beige style=filled]
+	node23 [label="[in: node22]
+node23 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 21)" color=lightblue style=filled]
+	node24 [label="[in: node23]
+node24 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 22)" color=green style=filled]
+	node25 [label="[in: node24]
+node25 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 23)" color=grey style=filled]
+	node26 [label="[in: node25]
+node26 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 24)" color=firebrick1 style=filled]
+	node27 [label="[in: node26]
+node27 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 25)" color=gold style=filled]
+	node28 [label="[in: node27]
+node28 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 26)" color=chocolate1 style=filled]
+	node29 [label="[in: node28]
+node29 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 27)" color=beige style=filled]
+	node30 [label="[in: node29]
+node30 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 28)" color=lightblue style=filled]
+	node31 [label="[in: node30]
+node31 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 29)" color=green style=filled]
+	node32 [label="[in: node31]
+node32 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 30)" color=grey style=filled]
+	node33 [label="[in: node32]
+node33 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 31)" color=firebrick1 style=filled]
+	node34 [label="[in: node33]
+node34 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 32)" color=gold style=filled]
+	node35 [label="[in: node34]
+node35 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 33)" color=chocolate1 style=filled]
+	node36 [label="[in: node35]
+node36 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 34)" color=beige style=filled]
+	node37 [label="[in: node36]
+node37 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 35)" color=lightblue style=filled]
+	node38 [label="[in: node37]
+node38 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 36)" color=green style=filled]
+	node39 [label="[in: node38]
+node39 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 37)" color=grey style=filled]
+	node40 [label="[in: node39]
+node40 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 38)" color=firebrick1 style=filled]
+	node41 [label="[in: node40]
+node41 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 39)" color=gold style=filled]
+	node42 [label="[in: node41]
+node42 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 40)" color=chocolate1 style=filled]
+	node43 [label="[in: node42]
+node43 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 41)" color=beige style=filled]
+	node44 [label="[in: node43]
+node44 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 42)" color=lightblue style=filled]
+	node45 [label="[in: node44]
+node45 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 43)" color=green style=filled]
+	node46 [label="[in: node45]
+node46 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 44)" color=grey style=filled]
+	node47 [label="[in: node46]
+node47 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 45)" color=firebrick1 style=filled]
+	node48 [label="[in: node47]
+node48 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 46)" color=gold style=filled]
+	node49 [label="[in: node48]
+node49 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 47)" color=chocolate1 style=filled]
+	node50 [label="[in: node49]
+node50 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 48)" color=beige style=filled]
+	node51 [label="[in: node50]
+node51 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 49)" color=lightblue style=filled]
+	node52 [label="[in: node51]
+node52 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 50)" color=green style=filled]
+	node53 [label="[in: node52]
+node53 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 51)" color=grey style=filled]
+	node54 [label="[in: node53]
+node54 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 52)" color=firebrick1 style=filled]
+	node55 [label="[in: node54]
+node55 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 53)" color=gold style=filled]
+	node56 [label="[in: node55]
+node56 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 54)" color=chocolate1 style=filled]
+	node57 [label="[in: node56]
+node57 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 55)" color=beige style=filled]
+	node58 [label="[in: node57]
+node58 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 56)" color=lightblue style=filled]
+	node59 [label="[in: node58]
+node59 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 57)" color=green style=filled]
+	node60 [label="[in: node59]
+node60 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 58)" color=grey style=filled]
+	node61 [label="[in: node60]
+node61 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 59)" color=firebrick1 style=filled]
+	node62 [label="[in: node61]
+node62 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 60)" color=gold style=filled]
+	node63 [label="[in: node62]
+node63 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 61)" color=chocolate1 style=filled]
+	node64 [label="[in: node63]
+node64 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 62)" color=beige style=filled]
+	node65 [label="[in: node64]
+node65 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 63)" color=lightblue style=filled]
+	node66 [label="[in: node65]
+node66 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 64)" color=green style=filled]
+	node67 [label="[in: node66]
+node67 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 65)" color=grey style=filled]
+	node68 [label="[in: node67]
+node68 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 66)" color=firebrick1 style=filled]
+	node69 [label="[in: node68]
+node69 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 67)" color=gold style=filled]
+	node70 [label="[in: node69]
+node70 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 68)" color=chocolate1 style=filled]
+	node71 [label="[in: node70]
+node71 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 69)" color=beige style=filled]
+	node72 [label="[in: node71]
+node72 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 70)" color=lightblue style=filled]
+	node73 [label="[in: node72]
+node73 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 71)" color=green style=filled]
+	node74 [label="[in: node73]
+node74 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 72)" color=grey style=filled]
+	node75 [label="[in: node74]
+node75 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 73)" color=firebrick1 style=filled]
+	node76 [label="[in: node75]
+node76 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 74)" color=gold style=filled]
+	node77 [label="[in: node76]
+node77 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 75)" color=chocolate1 style=filled]
+	node78 [label="[in: node77]
+node78 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 76)" color=beige style=filled]
+	node79 [label="[in: node78]
+node79 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 77)" color=lightblue style=filled]
+	node80 [label="[in: node79]
+node80 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 78)" color=green style=filled]
+	node81 [label="[in: node80]
+node81 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 79)" color=grey style=filled]
+	node82 [label="[in: node81]
+node82 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=False) (vLayer 80)" color=firebrick1 style=filled]
+	node83 [label="[in: node82]
+node83 -- ConvLayer(in_channels=64, out_channels=64, batch_norm=False, inplace=True, max_pool=True) (vLayer 81)" color=gold style=filled]
+	node84 [label="[in: node83]
+node84 -- ConvLayer(in_channels=64, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 82)" color=chocolate1 style=filled]
+	node85 [label="[in: node84]
+node85 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 83)" color=beige style=filled]
+	node86 [label="[in: node85]
+node86 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 84)" color=lightblue style=filled]
+	node87 [label="[in: node86]
+node87 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 85)" color=green style=filled]
+	node88 [label="[in: node87]
+node88 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 86)" color=grey style=filled]
+	node89 [label="[in: node88]
+node89 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 87)" color=firebrick1 style=filled]
+	node90 [label="[in: node89]
+node90 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 88)" color=gold style=filled]
+	node91 [label="[in: node90]
+node91 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 89)" color=chocolate1 style=filled]
+	node92 [label="[in: node91]
+node92 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 90)" color=beige style=filled]
+	node93 [label="[in: node92]
+node93 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 91)" color=lightblue style=filled]
+	node94 [label="[in: node93]
+node94 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 92)" color=green style=filled]
+	node95 [label="[in: node94]
+node95 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 93)" color=grey style=filled]
+	node96 [label="[in: node95]
+node96 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 94)" color=firebrick1 style=filled]
+	node97 [label="[in: node96]
+node97 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 95)" color=gold style=filled]
+	node98 [label="[in: node97]
+node98 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 96)" color=chocolate1 style=filled]
+	node99 [label="[in: node98]
+node99 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 97)" color=beige style=filled]
+	node100 [label="[in: node99]
+node100 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 98)" color=lightblue style=filled]
+	node101 [label="[in: node100]
+node101 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 99)" color=green style=filled]
+	node102 [label="[in: node101]
+node102 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 100)" color=grey style=filled]
+	node103 [label="[in: node102]
+node103 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 101)" color=firebrick1 style=filled]
+	node104 [label="[in: node103]
+node104 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 102)" color=gold style=filled]
+	node105 [label="[in: node104]
+node105 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 103)" color=chocolate1 style=filled]
+	node106 [label="[in: node105]
+node106 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 104)" color=beige style=filled]
+	node107 [label="[in: node106]
+node107 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 105)" color=lightblue style=filled]
+	node108 [label="[in: node107]
+node108 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 106)" color=green style=filled]
+	node109 [label="[in: node108]
+node109 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 107)" color=grey style=filled]
+	node110 [label="[in: node109]
+node110 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 108)" color=firebrick1 style=filled]
+	node111 [label="[in: node110]
+node111 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 109)" color=gold style=filled]
+	node112 [label="[in: node111]
+node112 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 110)" color=chocolate1 style=filled]
+	node113 [label="[in: node112]
+node113 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 111)" color=beige style=filled]
+	node114 [label="[in: node113]
+node114 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 112)" color=lightblue style=filled]
+	node115 [label="[in: node114]
+node115 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 113)" color=green style=filled]
+	node116 [label="[in: node115]
+node116 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 114)" color=grey style=filled]
+	node117 [label="[in: node116]
+node117 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 115)" color=firebrick1 style=filled]
+	node118 [label="[in: node117]
+node118 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 116)" color=gold style=filled]
+	node119 [label="[in: node118]
+node119 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 117)" color=chocolate1 style=filled]
+	node120 [label="[in: node119]
+node120 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 118)" color=beige style=filled]
+	node121 [label="[in: node120]
+node121 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 119)" color=lightblue style=filled]
+	node122 [label="[in: node121]
+node122 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 120)" color=green style=filled]
+	node123 [label="[in: node122]
+node123 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 121)" color=grey style=filled]
+	node124 [label="[in: node123]
+node124 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 122)" color=firebrick1 style=filled]
+	node125 [label="[in: node124]
+node125 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 123)" color=gold style=filled]
+	node126 [label="[in: node125]
+node126 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 124)" color=chocolate1 style=filled]
+	node127 [label="[in: node126]
+node127 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 125)" color=beige style=filled]
+	node128 [label="[in: node127]
+node128 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 126)" color=lightblue style=filled]
+	node129 [label="[in: node128]
+node129 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 127)" color=green style=filled]
+	node130 [label="[in: node129]
+node130 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 128)" color=grey style=filled]
+	node131 [label="[in: node130]
+node131 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 129)" color=firebrick1 style=filled]
+	node132 [label="[in: node131]
+node132 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 130)" color=gold style=filled]
+	node133 [label="[in: node132]
+node133 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 131)" color=chocolate1 style=filled]
+	node134 [label="[in: node133]
+node134 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 132)" color=beige style=filled]
+	node135 [label="[in: node134]
+node135 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 133)" color=lightblue style=filled]
+	node136 [label="[in: node135]
+node136 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 134)" color=green style=filled]
+	node137 [label="[in: node136]
+node137 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 135)" color=grey style=filled]
+	node138 [label="[in: node137]
+node138 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 136)" color=firebrick1 style=filled]
+	node139 [label="[in: node138]
+node139 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 137)" color=gold style=filled]
+	node140 [label="[in: node139]
+node140 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 138)" color=chocolate1 style=filled]
+	node141 [label="[in: node140]
+node141 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 139)" color=beige style=filled]
+	node142 [label="[in: node141]
+node142 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 140)" color=lightblue style=filled]
+	node143 [label="[in: node142]
+node143 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 141)" color=green style=filled]
+	node144 [label="[in: node143]
+node144 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 142)" color=grey style=filled]
+	node145 [label="[in: node144]
+node145 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 143)" color=firebrick1 style=filled]
+	node146 [label="[in: node145]
+node146 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 144)" color=gold style=filled]
+	node147 [label="[in: node146]
+node147 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 145)" color=chocolate1 style=filled]
+	node148 [label="[in: node147]
+node148 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 146)" color=beige style=filled]
+	node149 [label="[in: node148]
+node149 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 147)" color=lightblue style=filled]
+	node150 [label="[in: node149]
+node150 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 148)" color=green style=filled]
+	node151 [label="[in: node150]
+node151 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 149)" color=grey style=filled]
+	node152 [label="[in: node151]
+node152 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 150)" color=firebrick1 style=filled]
+	node153 [label="[in: node152]
+node153 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 151)" color=gold style=filled]
+	node154 [label="[in: node153]
+node154 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 152)" color=chocolate1 style=filled]
+	node155 [label="[in: node154]
+node155 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 153)" color=beige style=filled]
+	node156 [label="[in: node155]
+node156 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 154)" color=lightblue style=filled]
+	node157 [label="[in: node156]
+node157 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 155)" color=green style=filled]
+	node158 [label="[in: node157]
+node158 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 156)" color=grey style=filled]
+	node159 [label="[in: node158]
+node159 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 157)" color=firebrick1 style=filled]
+	node160 [label="[in: node159]
+node160 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 158)" color=gold style=filled]
+	node161 [label="[in: node160]
+node161 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 159)" color=chocolate1 style=filled]
+	node162 [label="[in: node161]
+node162 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 160)" color=beige style=filled]
+	node163 [label="[in: node162]
+node163 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 161)" color=lightblue style=filled]
+	node164 [label="[in: node163]
+node164 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=False) (vLayer 162)" color=green style=filled]
+	node165 [label="[in: node164]
+node165 -- ConvLayer(in_channels=128, out_channels=128, batch_norm=False, inplace=True, max_pool=True) (vLayer 163)" color=grey style=filled]
+	node166 [label="[in: node165]
+node166 -- ConvLayer(in_channels=128, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 164)" color=firebrick1 style=filled]
+	node167 [label="[in: node166]
+node167 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 165)" color=gold style=filled]
+	node168 [label="[in: node167]
+node168 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 166)" color=chocolate1 style=filled]
+	node169 [label="[in: node168]
+node169 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 167)" color=beige style=filled]
+	node170 [label="[in: node169]
+node170 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 168)" color=lightblue style=filled]
+	node171 [label="[in: node170]
+node171 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 169)" color=green style=filled]
+	node172 [label="[in: node171]
+node172 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 170)" color=grey style=filled]
+	node173 [label="[in: node172]
+node173 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 171)" color=firebrick1 style=filled]
+	node174 [label="[in: node173]
+node174 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 172)" color=gold style=filled]
+	node175 [label="[in: node174]
+node175 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 173)" color=chocolate1 style=filled]
+	node176 [label="[in: node175]
+node176 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 174)" color=beige style=filled]
+	node177 [label="[in: node176]
+node177 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 175)" color=lightblue style=filled]
+	node178 [label="[in: node177]
+node178 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 176)" color=green style=filled]
+	node179 [label="[in: node178]
+node179 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 177)" color=grey style=filled]
+	node180 [label="[in: node179]
+node180 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 178)" color=firebrick1 style=filled]
+	node181 [label="[in: node180]
+node181 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 179)" color=gold style=filled]
+	node182 [label="[in: node181]
+node182 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 180)" color=chocolate1 style=filled]
+	node183 [label="[in: node182]
+node183 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 181)" color=beige style=filled]
+	node184 [label="[in: node183]
+node184 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 182)" color=lightblue style=filled]
+	node185 [label="[in: node184]
+node185 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 183)" color=green style=filled]
+	node186 [label="[in: node185]
+node186 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 184)" color=grey style=filled]
+	node187 [label="[in: node186]
+node187 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 185)" color=firebrick1 style=filled]
+	node188 [label="[in: node187]
+node188 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 186)" color=gold style=filled]
+	node189 [label="[in: node188]
+node189 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 187)" color=chocolate1 style=filled]
+	node190 [label="[in: node189]
+node190 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 188)" color=beige style=filled]
+	node191 [label="[in: node190]
+node191 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 189)" color=lightblue style=filled]
+	node192 [label="[in: node191]
+node192 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 190)" color=green style=filled]
+	node193 [label="[in: node192]
+node193 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 191)" color=grey style=filled]
+	node194 [label="[in: node193]
+node194 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 192)" color=firebrick1 style=filled]
+	node195 [label="[in: node194]
+node195 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 193)" color=gold style=filled]
+	node196 [label="[in: node195]
+node196 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 194)" color=chocolate1 style=filled]
+	node197 [label="[in: node196]
+node197 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 195)" color=beige style=filled]
+	node198 [label="[in: node197]
+node198 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 196)" color=lightblue style=filled]
+	node199 [label="[in: node198]
+node199 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 197)" color=green style=filled]
+	node200 [label="[in: node199]
+node200 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 198)" color=grey style=filled]
+	node201 [label="[in: node200]
+node201 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 199)" color=firebrick1 style=filled]
+	node202 [label="[in: node201]
+node202 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 200)" color=gold style=filled]
+	node203 [label="[in: node202]
+node203 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 201)" color=chocolate1 style=filled]
+	node204 [label="[in: node203]
+node204 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 202)" color=beige style=filled]
+	node205 [label="[in: node204]
+node205 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 203)" color=lightblue style=filled]
+	node206 [label="[in: node205]
+node206 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 204)" color=green style=filled]
+	node207 [label="[in: node206]
+node207 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 205)" color=grey style=filled]
+	node208 [label="[in: node207]
+node208 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 206)" color=firebrick1 style=filled]
+	node209 [label="[in: node208]
+node209 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 207)" color=gold style=filled]
+	node210 [label="[in: node209]
+node210 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 208)" color=chocolate1 style=filled]
+	node211 [label="[in: node210]
+node211 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 209)" color=beige style=filled]
+	node212 [label="[in: node211]
+node212 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 210)" color=lightblue style=filled]
+	node213 [label="[in: node212]
+node213 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 211)" color=green style=filled]
+	node214 [label="[in: node213]
+node214 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 212)" color=grey style=filled]
+	node215 [label="[in: node214]
+node215 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 213)" color=firebrick1 style=filled]
+	node216 [label="[in: node215]
+node216 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 214)" color=gold style=filled]
+	node217 [label="[in: node216]
+node217 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 215)" color=chocolate1 style=filled]
+	node218 [label="[in: node217]
+node218 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 216)" color=beige style=filled]
+	node219 [label="[in: node218]
+node219 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 217)" color=lightblue style=filled]
+	node220 [label="[in: node219]
+node220 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 218)" color=green style=filled]
+	node221 [label="[in: node220]
+node221 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 219)" color=grey style=filled]
+	node222 [label="[in: node221]
+node222 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 220)" color=firebrick1 style=filled]
+	node223 [label="[in: node222]
+node223 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 221)" color=gold style=filled]
+	node224 [label="[in: node223]
+node224 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 222)" color=chocolate1 style=filled]
+	node225 [label="[in: node224]
+node225 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 223)" color=beige style=filled]
+	node226 [label="[in: node225]
+node226 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 224)" color=lightblue style=filled]
+	node227 [label="[in: node226]
+node227 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 225)" color=green style=filled]
+	node228 [label="[in: node227]
+node228 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 226)" color=grey style=filled]
+	node229 [label="[in: node228]
+node229 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 227)" color=firebrick1 style=filled]
+	node230 [label="[in: node229]
+node230 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 228)" color=gold style=filled]
+	node231 [label="[in: node230]
+node231 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 229)" color=chocolate1 style=filled]
+	node232 [label="[in: node231]
+node232 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 230)" color=beige style=filled]
+	node233 [label="[in: node232]
+node233 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 231)" color=lightblue style=filled]
+	node234 [label="[in: node233]
+node234 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 232)" color=green style=filled]
+	node235 [label="[in: node234]
+node235 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 233)" color=grey style=filled]
+	node236 [label="[in: node235]
+node236 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 234)" color=firebrick1 style=filled]
+	node237 [label="[in: node236]
+node237 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 235)" color=gold style=filled]
+	node238 [label="[in: node237]
+node238 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 236)" color=chocolate1 style=filled]
+	node239 [label="[in: node238]
+node239 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 237)" color=beige style=filled]
+	node240 [label="[in: node239]
+node240 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 238)" color=lightblue style=filled]
+	node241 [label="[in: node240]
+node241 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 239)" color=green style=filled]
+	node242 [label="[in: node241]
+node242 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 240)" color=grey style=filled]
+	node243 [label="[in: node242]
+node243 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 241)" color=firebrick1 style=filled]
+	node244 [label="[in: node243]
+node244 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 242)" color=gold style=filled]
+	node245 [label="[in: node244]
+node245 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 243)" color=chocolate1 style=filled]
+	node246 [label="[in: node245]
+node246 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 244)" color=beige style=filled]
+	node247 [label="[in: node246]
+node247 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=False) (vLayer 245)" color=lightblue style=filled]
+	node248 [label="[in: node247]
+node248 -- ConvLayer(in_channels=256, out_channels=256, batch_norm=False, inplace=True, max_pool=True) (vLayer 246)" color=green style=filled]
+	node249 [label="[in: node248]
+node249 -- ConvLayer(in_channels=256, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 247)" color=grey style=filled]
+	node250 [label="[in: node249]
+node250 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 248)" color=firebrick1 style=filled]
+	node251 [label="[in: node250]
+node251 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 249)" color=gold style=filled]
+	node252 [label="[in: node251]
+node252 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 250)" color=chocolate1 style=filled]
+	node253 [label="[in: node252]
+node253 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 251)" color=beige style=filled]
+	node254 [label="[in: node253]
+node254 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 252)" color=lightblue style=filled]
+	node255 [label="[in: node254]
+node255 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 253)" color=green style=filled]
+	node256 [label="[in: node255]
+node256 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 254)" color=grey style=filled]
+	node257 [label="[in: node256]
+node257 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 255)" color=firebrick1 style=filled]
+	node258 [label="[in: node257]
+node258 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 256)" color=gold style=filled]
+	node259 [label="[in: node258]
+node259 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 257)" color=chocolate1 style=filled]
+	node260 [label="[in: node259]
+node260 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 258)" color=beige style=filled]
+	node261 [label="[in: node260]
+node261 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 259)" color=lightblue style=filled]
+	node262 [label="[in: node261]
+node262 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 260)" color=green style=filled]
+	node263 [label="[in: node262]
+node263 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 261)" color=grey style=filled]
+	node264 [label="[in: node263]
+node264 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 262)" color=firebrick1 style=filled]
+	node265 [label="[in: node264]
+node265 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 263)" color=gold style=filled]
+	node266 [label="[in: node265]
+node266 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 264)" color=chocolate1 style=filled]
+	node267 [label="[in: node266]
+node267 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 265)" color=beige style=filled]
+	node268 [label="[in: node267]
+node268 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 266)" color=lightblue style=filled]
+	node269 [label="[in: node268]
+node269 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 267)" color=green style=filled]
+	node270 [label="[in: node269]
+node270 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 268)" color=grey style=filled]
+	node271 [label="[in: node270]
+node271 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 269)" color=firebrick1 style=filled]
+	node272 [label="[in: node271]
+node272 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 270)" color=gold style=filled]
+	node273 [label="[in: node272]
+node273 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 271)" color=chocolate1 style=filled]
+	node274 [label="[in: node273]
+node274 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 272)" color=beige style=filled]
+	node275 [label="[in: node274]
+node275 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 273)" color=lightblue style=filled]
+	node276 [label="[in: node275]
+node276 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 274)" color=green style=filled]
+	node277 [label="[in: node276]
+node277 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 275)" color=grey style=filled]
+	node278 [label="[in: node277]
+node278 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 276)" color=firebrick1 style=filled]
+	node279 [label="[in: node278]
+node279 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 277)" color=gold style=filled]
+	node280 [label="[in: node279]
+node280 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 278)" color=chocolate1 style=filled]
+	node281 [label="[in: node280]
+node281 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 279)" color=beige style=filled]
+	node282 [label="[in: node281]
+node282 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 280)" color=lightblue style=filled]
+	node283 [label="[in: node282]
+node283 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 281)" color=green style=filled]
+	node284 [label="[in: node283]
+node284 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 282)" color=grey style=filled]
+	node285 [label="[in: node284]
+node285 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 283)" color=firebrick1 style=filled]
+	node286 [label="[in: node285]
+node286 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 284)" color=gold style=filled]
+	node287 [label="[in: node286]
+node287 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 285)" color=chocolate1 style=filled]
+	node288 [label="[in: node287]
+node288 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 286)" color=beige style=filled]
+	node289 [label="[in: node288]
+node289 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 287)" color=lightblue style=filled]
+	node290 [label="[in: node289]
+node290 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 288)" color=green style=filled]
+	node291 [label="[in: node290]
+node291 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 289)" color=grey style=filled]
+	node292 [label="[in: node291]
+node292 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 290)" color=firebrick1 style=filled]
+	node293 [label="[in: node292]
+node293 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 291)" color=gold style=filled]
+	node294 [label="[in: node293]
+node294 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 292)" color=chocolate1 style=filled]
+	node295 [label="[in: node294]
+node295 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 293)" color=beige style=filled]
+	node296 [label="[in: node295]
+node296 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 294)" color=lightblue style=filled]
+	node297 [label="[in: node296]
+node297 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 295)" color=green style=filled]
+	node298 [label="[in: node297]
+node298 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 296)" color=grey style=filled]
+	node299 [label="[in: node298]
+node299 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 297)" color=firebrick1 style=filled]
+	node300 [label="[in: node299]
+node300 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 298)" color=gold style=filled]
+	node301 [label="[in: node300]
+node301 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 299)" color=chocolate1 style=filled]
+	node302 [label="[in: node301]
+node302 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 300)" color=beige style=filled]
+	node303 [label="[in: node302]
+node303 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 301)" color=lightblue style=filled]
+	node304 [label="[in: node303]
+node304 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 302)" color=green style=filled]
+	node305 [label="[in: node304]
+node305 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 303)" color=grey style=filled]
+	node306 [label="[in: node305]
+node306 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 304)" color=firebrick1 style=filled]
+	node307 [label="[in: node306]
+node307 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 305)" color=gold style=filled]
+	node308 [label="[in: node307]
+node308 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 306)" color=chocolate1 style=filled]
+	node309 [label="[in: node308]
+node309 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 307)" color=beige style=filled]
+	node310 [label="[in: node309]
+node310 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 308)" color=lightblue style=filled]
+	node311 [label="[in: node310]
+node311 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 309)" color=green style=filled]
+	node312 [label="[in: node311]
+node312 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 310)" color=grey style=filled]
+	node313 [label="[in: node312]
+node313 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 311)" color=firebrick1 style=filled]
+	node314 [label="[in: node313]
+node314 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 312)" color=gold style=filled]
+	node315 [label="[in: node314]
+node315 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 313)" color=chocolate1 style=filled]
+	node316 [label="[in: node315]
+node316 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 314)" color=beige style=filled]
+	node317 [label="[in: node316]
+node317 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 315)" color=lightblue style=filled]
+	node318 [label="[in: node317]
+node318 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 316)" color=green style=filled]
+	node319 [label="[in: node318]
+node319 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 317)" color=grey style=filled]
+	node320 [label="[in: node319]
+node320 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 318)" color=firebrick1 style=filled]
+	node321 [label="[in: node320]
+node321 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 319)" color=gold style=filled]
+	node322 [label="[in: node321]
+node322 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 320)" color=chocolate1 style=filled]
+	node323 [label="[in: node322]
+node323 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 321)" color=beige style=filled]
+	node324 [label="[in: node323]
+node324 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 322)" color=lightblue style=filled]
+	node325 [label="[in: node324]
+node325 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 323)" color=green style=filled]
+	node326 [label="[in: node325]
+node326 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 324)" color=grey style=filled]
+	node327 [label="[in: node326]
+node327 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 325)" color=firebrick1 style=filled]
+	node328 [label="[in: node327]
+node328 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 326)" color=gold style=filled]
+	node329 [label="[in: node328]
+node329 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 327)" color=chocolate1 style=filled]
+	node330 [label="[in: node329]
+node330 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 328)" color=beige style=filled]
+	node331 [label="[in: node330]
+node331 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=True) (vLayer 329)" color=lightblue style=filled]
+	node332 [label="[in: node331]
+node332 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 330)" color=green style=filled]
+	node333 [label="[in: node332]
+node333 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 331)" color=grey style=filled]
+	node334 [label="[in: node333]
+node334 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 332)" color=firebrick1 style=filled]
+	node335 [label="[in: node334]
+node335 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 333)" color=gold style=filled]
+	node336 [label="[in: node335]
+node336 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 334)" color=chocolate1 style=filled]
+	node337 [label="[in: node336]
+node337 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 335)" color=beige style=filled]
+	node338 [label="[in: node337]
+node338 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 336)" color=lightblue style=filled]
+	node339 [label="[in: node338]
+node339 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 337)" color=green style=filled]
+	node340 [label="[in: node339]
+node340 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 338)" color=grey style=filled]
+	node341 [label="[in: node340]
+node341 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 339)" color=firebrick1 style=filled]
+	node342 [label="[in: node341]
+node342 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 340)" color=gold style=filled]
+	node343 [label="[in: node342]
+node343 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 341)" color=chocolate1 style=filled]
+	node344 [label="[in: node343]
+node344 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 342)" color=beige style=filled]
+	node345 [label="[in: node344]
+node345 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 343)" color=lightblue style=filled]
+	node346 [label="[in: node345]
+node346 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 344)" color=green style=filled]
+	node347 [label="[in: node346]
+node347 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 345)" color=grey style=filled]
+	node348 [label="[in: node347]
+node348 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 346)" color=firebrick1 style=filled]
+	node349 [label="[in: node348]
+node349 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 347)" color=gold style=filled]
+	node350 [label="[in: node349]
+node350 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 348)" color=chocolate1 style=filled]
+	node351 [label="[in: node350]
+node351 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 349)" color=beige style=filled]
+	node352 [label="[in: node351]
+node352 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 350)" color=lightblue style=filled]
+	node353 [label="[in: node352]
+node353 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 351)" color=green style=filled]
+	node354 [label="[in: node353]
+node354 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 352)" color=grey style=filled]
+	node355 [label="[in: node354]
+node355 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 353)" color=firebrick1 style=filled]
+	node356 [label="[in: node355]
+node356 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 354)" color=gold style=filled]
+	node357 [label="[in: node356]
+node357 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 355)" color=chocolate1 style=filled]
+	node358 [label="[in: node357]
+node358 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 356)" color=beige style=filled]
+	node359 [label="[in: node358]
+node359 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 357)" color=lightblue style=filled]
+	node360 [label="[in: node359]
+node360 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 358)" color=green style=filled]
+	node361 [label="[in: node360]
+node361 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 359)" color=grey style=filled]
+	node362 [label="[in: node361]
+node362 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 360)" color=firebrick1 style=filled]
+	node363 [label="[in: node362]
+node363 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 361)" color=gold style=filled]
+	node364 [label="[in: node363]
+node364 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 362)" color=chocolate1 style=filled]
+	node365 [label="[in: node364]
+node365 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 363)" color=beige style=filled]
+	node366 [label="[in: node365]
+node366 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 364)" color=lightblue style=filled]
+	node367 [label="[in: node366]
+node367 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 365)" color=green style=filled]
+	node368 [label="[in: node367]
+node368 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 366)" color=grey style=filled]
+	node369 [label="[in: node368]
+node369 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 367)" color=firebrick1 style=filled]
+	node370 [label="[in: node369]
+node370 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 368)" color=gold style=filled]
+	node371 [label="[in: node370]
+node371 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 369)" color=chocolate1 style=filled]
+	node372 [label="[in: node371]
+node372 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 370)" color=beige style=filled]
+	node373 [label="[in: node372]
+node373 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 371)" color=lightblue style=filled]
+	node374 [label="[in: node373]
+node374 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 372)" color=green style=filled]
+	node375 [label="[in: node374]
+node375 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 373)" color=grey style=filled]
+	node376 [label="[in: node375]
+node376 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 374)" color=firebrick1 style=filled]
+	node377 [label="[in: node376]
+node377 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 375)" color=gold style=filled]
+	node378 [label="[in: node377]
+node378 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 376)" color=chocolate1 style=filled]
+	node379 [label="[in: node378]
+node379 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 377)" color=beige style=filled]
+	node380 [label="[in: node379]
+node380 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 378)" color=lightblue style=filled]
+	node381 [label="[in: node380]
+node381 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 379)" color=green style=filled]
+	node382 [label="[in: node381]
+node382 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 380)" color=grey style=filled]
+	node383 [label="[in: node382]
+node383 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 381)" color=firebrick1 style=filled]
+	node384 [label="[in: node383]
+node384 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 382)" color=gold style=filled]
+	node385 [label="[in: node384]
+node385 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 383)" color=chocolate1 style=filled]
+	node386 [label="[in: node385]
+node386 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 384)" color=beige style=filled]
+	node387 [label="[in: node386]
+node387 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 385)" color=lightblue style=filled]
+	node388 [label="[in: node387]
+node388 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 386)" color=green style=filled]
+	node389 [label="[in: node388]
+node389 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 387)" color=grey style=filled]
+	node390 [label="[in: node389]
+node390 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 388)" color=firebrick1 style=filled]
+	node391 [label="[in: node390]
+node391 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 389)" color=gold style=filled]
+	node392 [label="[in: node391]
+node392 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 390)" color=chocolate1 style=filled]
+	node393 [label="[in: node392]
+node393 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 391)" color=beige style=filled]
+	node394 [label="[in: node393]
+node394 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 392)" color=lightblue style=filled]
+	node395 [label="[in: node394]
+node395 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 393)" color=green style=filled]
+	node396 [label="[in: node395]
+node396 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 394)" color=grey style=filled]
+	node397 [label="[in: node396]
+node397 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 395)" color=firebrick1 style=filled]
+	node398 [label="[in: node397]
+node398 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 396)" color=gold style=filled]
+	node399 [label="[in: node398]
+node399 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 397)" color=chocolate1 style=filled]
+	node400 [label="[in: node399]
+node400 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 398)" color=beige style=filled]
+	node401 [label="[in: node400]
+node401 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 399)" color=lightblue style=filled]
+	node402 [label="[in: node401]
+node402 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 400)" color=green style=filled]
+	node403 [label="[in: node402]
+node403 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 401)" color=grey style=filled]
+	node404 [label="[in: node403]
+node404 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 402)" color=firebrick1 style=filled]
+	node405 [label="[in: node404]
+node405 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 403)" color=gold style=filled]
+	node406 [label="[in: node405]
+node406 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 404)" color=chocolate1 style=filled]
+	node407 [label="[in: node406]
+node407 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 405)" color=beige style=filled]
+	node408 [label="[in: node407]
+node408 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 406)" color=lightblue style=filled]
+	node409 [label="[in: node408]
+node409 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 407)" color=green style=filled]
+	node410 [label="[in: node409]
+node410 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 408)" color=grey style=filled]
+	node411 [label="[in: node410]
+node411 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 409)" color=firebrick1 style=filled]
+	node412 [label="[in: node411]
+node412 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 410)" color=gold style=filled]
+	node413 [label="[in: node412]
+node413 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=False) (vLayer 411)" color=chocolate1 style=filled]
+	node414 [label="[in: node413]
+node414 -- ConvLayer(in_channels=512, out_channels=512, batch_norm=False, inplace=True, max_pool=True) (vLayer 412)" color=beige style=filled]
+	node415 [label="[in: node414]
+node415 -- LinearLayer0(inplace=True) (vLayer 413)" color=lightblue style=filled]
+	node416 [label="[in: node415]
+node416 -- LinearLayer1(inplace=True) (vLayer 414)" color=green style=filled]
+	node417 [label="[in: node416]
+node417 -- LinearLayer2(num_classes=1000) (vLayer 415)" color=grey style=filled]
+	node1 [label="[in: ]
+node1 -- Input0 (vLayer 0)" color=lightblue style=filled]
+	node1 -> node2
+	node2 -> node3
+	node3 -> node4
+	node4 -> node5
+	node5 -> node6
+	node6 -> node7
+	node7 -> node8
+	node8 -> node9
+	node9 -> node10
+	node10 -> node11
+	node11 -> node12
+	node12 -> node13
+	node13 -> node14
+	node14 -> node15
+	node15 -> node16
+	node16 -> node17
+	node17 -> node18
+	node18 -> node19
+	node19 -> node20
+	node20 -> node21
+	node21 -> node22
+	node22 -> node23
+	node23 -> node24
+	node24 -> node25
+	node25 -> node26
+	node26 -> node27
+	node27 -> node28
+	node28 -> node29
+	node29 -> node30
+	node30 -> node31
+	node31 -> node32
+	node32 -> node33
+	node33 -> node34
+	node34 -> node35
+	node35 -> node36
+	node36 -> node37
+	node37 -> node38
+	node38 -> node39
+	node39 -> node40
+	node40 -> node41
+	node41 -> node42
+	node42 -> node43
+	node43 -> node44
+	node44 -> node45
+	node45 -> node46
+	node46 -> node47
+	node47 -> node48
+	node48 -> node49
+	node49 -> node50
+	node50 -> node51
+	node51 -> node52
+	node52 -> node53
+	node53 -> node54
+	node54 -> node55
+	node55 -> node56
+	node56 -> node57
+	node57 -> node58
+	node58 -> node59
+	node59 -> node60
+	node60 -> node61
+	node61 -> node62
+	node62 -> node63
+	node63 -> node64
+	node64 -> node65
+	node65 -> node66
+	node66 -> node67
+	node67 -> node68
+	node68 -> node69
+	node69 -> node70
+	node70 -> node71
+	node71 -> node72
+	node72 -> node73
+	node73 -> node74
+	node74 -> node75
+	node75 -> node76
+	node76 -> node77
+	node77 -> node78
+	node78 -> node79
+	node79 -> node80
+	node80 -> node81
+	node81 -> node82
+	node82 -> node83
+	node83 -> node84
+	node84 -> node85
+	node85 -> node86
+	node86 -> node87
+	node87 -> node88
+	node88 -> node89
+	node89 -> node90
+	node90 -> node91
+	node91 -> node92
+	node92 -> node93
+	node93 -> node94
+	node94 -> node95
+	node95 -> node96
+	node96 -> node97
+	node97 -> node98
+	node98 -> node99
+	node99 -> node100
+	node100 -> node101
+	node101 -> node102
+	node102 -> node103
+	node103 -> node104
+	node104 -> node105
+	node105 -> node106
+	node106 -> node107
+	node107 -> node108
+	node108 -> node109
+	node109 -> node110
+	node110 -> node111
+	node111 -> node112
+	node112 -> node113
+	node113 -> node114
+	node114 -> node115
+	node115 -> node116
+	node116 -> node117
+	node117 -> node118
+	node118 -> node119
+	node119 -> node120
+	node120 -> node121
+	node121 -> node122
+	node122 -> node123
+	node123 -> node124
+	node124 -> node125
+	node125 -> node126
+	node126 -> node127
+	node127 -> node128
+	node128 -> node129
+	node129 -> node130
+	node130 -> node131
+	node131 -> node132
+	node132 -> node133
+	node133 -> node134
+	node134 -> node135
+	node135 -> node136
+	node136 -> node137
+	node137 -> node138
+	node138 -> node139
+	node139 -> node140
+	node140 -> node141
+	node141 -> node142
+	node142 -> node143
+	node143 -> node144
+	node144 -> node145
+	node145 -> node146
+	node146 -> node147
+	node147 -> node148
+	node148 -> node149
+	node149 -> node150
+	node150 -> node151
+	node151 -> node152
+	node152 -> node153
+	node153 -> node154
+	node154 -> node155
+	node155 -> node156
+	node156 -> node157
+	node157 -> node158
+	node158 -> node159
+	node159 -> node160
+	node160 -> node161
+	node161 -> node162
+	node162 -> node163
+	node163 -> node164
+	node164 -> node165
+	node165 -> node166
+	node166 -> node167
+	node167 -> node168
+	node168 -> node169
+	node169 -> node170
+	node170 -> node171
+	node171 -> node172
+	node172 -> node173
+	node173 -> node174
+	node174 -> node175
+	node175 -> node176
+	node176 -> node177
+	node177 -> node178
+	node178 -> node179
+	node179 -> node180
+	node180 -> node181
+	node181 -> node182
+	node182 -> node183
+	node183 -> node184
+	node184 -> node185
+	node185 -> node186
+	node186 -> node187
+	node187 -> node188
+	node188 -> node189
+	node189 -> node190
+	node190 -> node191
+	node191 -> node192
+	node192 -> node193
+	node193 -> node194
+	node194 -> node195
+	node195 -> node196
+	node196 -> node197
+	node197 -> node198
+	node198 -> node199
+	node199 -> node200
+	node200 -> node201
+	node201 -> node202
+	node202 -> node203
+	node203 -> node204
+	node204 -> node205
+	node205 -> node206
+	node206 -> node207
+	node207 -> node208
+	node208 -> node209
+	node209 -> node210
+	node210 -> node211
+	node211 -> node212
+	node212 -> node213
+	node213 -> node214
+	node214 -> node215
+	node215 -> node216
+	node216 -> node217
+	node217 -> node218
+	node218 -> node219
+	node219 -> node220
+	node220 -> node221
+	node221 -> node222
+	node222 -> node223
+	node223 -> node224
+	node224 -> node225
+	node225 -> node226
+	node226 -> node227
+	node227 -> node228
+	node228 -> node229
+	node229 -> node230
+	node230 -> node231
+	node231 -> node232
+	node232 -> node233
+	node233 -> node234
+	node234 -> node235
+	node235 -> node236
+	node236 -> node237
+	node237 -> node238
+	node238 -> node239
+	node239 -> node240
+	node240 -> node241
+	node241 -> node242
+	node242 -> node243
+	node243 -> node244
+	node244 -> node245
+	node245 -> node246
+	node246 -> node247
+	node247 -> node248
+	node248 -> node249
+	node249 -> node250
+	node250 -> node251
+	node251 -> node252
+	node252 -> node253
+	node253 -> node254
+	node254 -> node255
+	node255 -> node256
+	node256 -> node257
+	node257 -> node258
+	node258 -> node259
+	node259 -> node260
+	node260 -> node261
+	node261 -> node262
+	node262 -> node263
+	node263 -> node264
+	node264 -> node265
+	node265 -> node266
+	node266 -> node267
+	node267 -> node268
+	node268 -> node269
+	node269 -> node270
+	node270 -> node271
+	node271 -> node272
+	node272 -> node273
+	node273 -> node274
+	node274 -> node275
+	node275 -> node276
+	node276 -> node277
+	node277 -> node278
+	node278 -> node279
+	node279 -> node280
+	node280 -> node281
+	node281 -> node282
+	node282 -> node283
+	node283 -> node284
+	node284 -> node285
+	node285 -> node286
+	node286 -> node287
+	node287 -> node288
+	node288 -> node289
+	node289 -> node290
+	node290 -> node291
+	node291 -> node292
+	node292 -> node293
+	node293 -> node294
+	node294 -> node295
+	node295 -> node296
+	node296 -> node297
+	node297 -> node298
+	node298 -> node299
+	node299 -> node300
+	node300 -> node301
+	node301 -> node302
+	node302 -> node303
+	node303 -> node304
+	node304 -> node305
+	node305 -> node306
+	node306 -> node307
+	node307 -> node308
+	node308 -> node309
+	node309 -> node310
+	node310 -> node311
+	node311 -> node312
+	node312 -> node313
+	node313 -> node314
+	node314 -> node315
+	node315 -> node316
+	node316 -> node317
+	node317 -> node318
+	node318 -> node319
+	node319 -> node320
+	node320 -> node321
+	node321 -> node322
+	node322 -> node323
+	node323 -> node324
+	node324 -> node325
+	node325 -> node326
+	node326 -> node327
+	node327 -> node328
+	node328 -> node329
+	node329 -> node330
+	node330 -> node331
+	node331 -> node332
+	node332 -> node333
+	node333 -> node334
+	node334 -> node335
+	node335 -> node336
+	node336 -> node337
+	node337 -> node338
+	node338 -> node339
+	node339 -> node340
+	node340 -> node341
+	node341 -> node342
+	node342 -> node343
+	node343 -> node344
+	node344 -> node345
+	node345 -> node346
+	node346 -> node347
+	node347 -> node348
+	node348 -> node349
+	node349 -> node350
+	node350 -> node351
+	node351 -> node352
+	node352 -> node353
+	node353 -> node354
+	node354 -> node355
+	node355 -> node356
+	node356 -> node357
+	node357 -> node358
+	node358 -> node359
+	node359 -> node360
+	node360 -> node361
+	node361 -> node362
+	node362 -> node363
+	node363 -> node364
+	node364 -> node365
+	node365 -> node366
+	node366 -> node367
+	node367 -> node368
+	node368 -> node369
+	node369 -> node370
+	node370 -> node371
+	node371 -> node372
+	node372 -> node373
+	node373 -> node374
+	node374 -> node375
+	node375 -> node376
+	node376 -> node377
+	node377 -> node378
+	node378 -> node379
+	node379 -> node380
+	node380 -> node381
+	node381 -> node382
+	node382 -> node383
+	node383 -> node384
+	node384 -> node385
+	node385 -> node386
+	node386 -> node387
+	node387 -> node388
+	node388 -> node389
+	node389 -> node390
+	node390 -> node391
+	node391 -> node392
+	node392 -> node393
+	node393 -> node394
+	node394 -> node395
+	node395 -> node396
+	node396 -> node397
+	node397 -> node398
+	node398 -> node399
+	node399 -> node400
+	node400 -> node401
+	node401 -> node402
+	node402 -> node403
+	node403 -> node404
+	node404 -> node405
+	node405 -> node406
+	node406 -> node407
+	node407 -> node408
+	node408 -> node409
+	node409 -> node410
+	node410 -> node411
+	node411 -> node412
+	node412 -> node413
+	node413 -> node414
+	node414 -> node415
+	node415 -> node416
+	node416 -> node417
+}

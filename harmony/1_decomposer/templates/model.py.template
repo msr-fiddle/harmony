@@ -1,0 +1,13 @@
+import torch
+%(import_statements)s
+
+class %(module_name)s(torch.nn.Module):
+    def __init__(self%(extra_args)s):
+        super(%(module_name)s, self).__init__()
+        %(layer_declarations)s
+
+    %(module_methods)s
+
+    def forward(self, %(inputs)s): # predecessor (ordered by in_node_id)
+        # 1 out = 1 layer_call(in1,in2,...) = 1 node
+        %(function_definition)s # successor (ordered by out_node_id)

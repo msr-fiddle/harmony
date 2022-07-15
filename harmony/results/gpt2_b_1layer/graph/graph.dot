@@ -1,0 +1,16 @@
+digraph {
+	node1 [label="[in: ]
+node1 -- Input0"]
+	node2 [label="[in: node1]
+node2 -- GPT2Embeddings(config=config)"]
+	node3 [label="[in: node2]
+node3 -- GPT2Layer(config=config)"]
+	node4 [label="[in: node3]
+node4 -- GPT2LayerNorm(config=config)"]
+	node5 [label="[in: node4]
+node5 -- GPT2LMHead(config=config)"]
+	node1 -> node2
+	node2 -> node3
+	node3 -> node4
+	node4 -> node5
+}

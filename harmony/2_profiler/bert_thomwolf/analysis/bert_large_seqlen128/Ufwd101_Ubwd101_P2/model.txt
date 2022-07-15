@@ -1,0 +1,74 @@
+------ input arguments ------
+module_dir       ../results
+module_name      bert_large
+profiled_fnames  ['prof_TIME_FWDBWD', 'prof_MEMORY_FWDBWD', 'prof_XMETA', 'prof_TMETA', 'prof_TIME_UPD', 'prof_WMETA', 'prof_BMETA', 'prof_KMETA']
+suffix           _seqlen128
+no_offload_optim False
+mode             model
+analysis_dir     /workspace/harmony_usr/harmony/2_profiler/bert_thomwolf/analysis/bert_large_seqlen128/Ufwd101_Ubwd101_P2
+size_pack        {'u_fwd': 101, 'pack_fwd': [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9], [10, 11], [12, 13], [14, 15], [16, 17], [18, 19], [20, 21], [22, 23], [24, 25], [26, 27]], 'u_bwd': 101, 'pack_bwd': [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9], [10, 11], [12, 13], [14, 15], [16, 17], [18, 19], [20, 21], [22, 23], [24, 25], [26, 27]], 'num_layers': 28}
+-----------------------------
+prof_data_struct load from: ../results/bert_large/prof/prof_TIME_FWDBWD_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_MEMORY_FWDBWD_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_XMETA_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_TMETA_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_TIME_UPD_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_WMETA_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_BMETA_seqlen128.pickle
+prof_data_struct load from: ../results/bert_large/prof/prof_KMETA_seqlen128.pickle
+
+=================== bert_large's FWD ===================
+----------------- ubatchsize=101 ------------------
+vlayer: time(ms) mem(MB) X(MB) W(MB) B(MB)
+0-1:	57.565	1382	0	169	0
+2-3:	104.728	1863	50	96	0
+4-5:	103.594	1863	50	96	0
+6-7:	105.386	1863	50	96	0
+8-9:	106.894	1863	50	96	0
+10-11:	105.287	1863	50	96	0
+12-13:	103.783	1863	50	96	0
+14-15:	103.845	1863	50	96	0
+16-17:	104.064	1863	50	96	0
+18-19:	107.004	1863	50	96	0
+20-21:	103.643	1863	50	96	0
+22-23:	106.661	1863	50	96	0
+24-25:	52.277	961	50	52	0
+26-27:	0.310	0	0	0	0
+========================================================
+
+=================== bert_large's BWD with Recompute ===================
+----------------- ubatchsize=101 ------------------
+vlayer: time(ms) mem(MB) X(MB) W(MB) B(MB)
+0-1:	180.641	3016	0	169	0
+2-3:	325.402	4929	50	96	0
+4-5:	325.839	4929	50	96	0
+6-7:	325.045	4929	50	96	0
+8-9:	325.371	4929	50	96	0
+10-11:	324.801	4929	50	96	0
+12-13:	326.083	4929	50	96	0
+14-15:	325.407	4929	50	96	0
+16-17:	323.951	4929	50	96	0
+18-19:	323.975	4929	50	96	0
+20-21:	324.852	4929	50	96	0
+22-23:	324.891	4929	50	96	0
+24-25:	164.808	2599	50	52	0
+26-27:	1.659	0	0	0	0
+========================================================
+
+=================== bert_large's UPD ===================
+vlayer: time(ms) W(MB) K(MB)
+0-1:	118.008	169	338
+2-3:	44.308	96	192
+4-5:	44.619	96	192
+6-7:	43.706	96	192
+8-9:	44.519	96	192
+10-11:	43.922	96	192
+12-13:	41.163	96	192
+14-15:	39.601	96	192
+16-17:	43.595	96	192
+18-19:	46.596	96	192
+20-21:	43.487	96	192
+22-23:	43.344	96	192
+24-25:	25.008	52	104
+26-27:	0.372	0	0
+========================================================

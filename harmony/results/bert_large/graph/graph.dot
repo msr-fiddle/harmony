@@ -1,0 +1,114 @@
+digraph {
+	node1 [label="[in: ]
+node1 -- Input0"]
+	node3 [label="[in: node1, node2]
+node3 -- BertEmbeddings(config=config)"]
+	node2 [label="[in: ]
+node2 -- Input1"]
+	node5 [label="[in: node3, node4]
+node5 -- BertLayer(config=config)"]
+	node4 [label="[in: ]
+node4 -- Input2"]
+	node6 [label="[in: node5, node4]
+node6 -- BertLayer(config=config)"]
+	node7 [label="[in: node6, node4]
+node7 -- BertLayer(config=config)"]
+	node8 [label="[in: node7, node4]
+node8 -- BertLayer(config=config)"]
+	node9 [label="[in: node8, node4]
+node9 -- BertLayer(config=config)"]
+	node10 [label="[in: node9, node4]
+node10 -- BertLayer(config=config)"]
+	node11 [label="[in: node10, node4]
+node11 -- BertLayer(config=config)"]
+	node12 [label="[in: node11, node4]
+node12 -- BertLayer(config=config)"]
+	node13 [label="[in: node12, node4]
+node13 -- BertLayer(config=config)"]
+	node14 [label="[in: node13, node4]
+node14 -- BertLayer(config=config)"]
+	node15 [label="[in: node14, node4]
+node15 -- BertLayer(config=config)"]
+	node16 [label="[in: node15, node4]
+node16 -- BertLayer(config=config)"]
+	node17 [label="[in: node16, node4]
+node17 -- BertLayer(config=config)"]
+	node18 [label="[in: node17, node4]
+node18 -- BertLayer(config=config)"]
+	node19 [label="[in: node18, node4]
+node19 -- BertLayer(config=config)"]
+	node20 [label="[in: node19, node4]
+node20 -- BertLayer(config=config)"]
+	node21 [label="[in: node20, node4]
+node21 -- BertLayer(config=config)"]
+	node22 [label="[in: node21, node4]
+node22 -- BertLayer(config=config)"]
+	node23 [label="[in: node22, node4]
+node23 -- BertLayer(config=config)"]
+	node24 [label="[in: node23, node4]
+node24 -- BertLayer(config=config)"]
+	node25 [label="[in: node24, node4]
+node25 -- BertLayer(config=config)"]
+	node26 [label="[in: node25, node4]
+node26 -- BertLayer(config=config)"]
+	node27 [label="[in: node26, node4]
+node27 -- BertLayer(config=config)"]
+	node28 [label="[in: node27, node4]
+node28 -- BertLayer(config=config)"]
+	node29 [label="[in: node28]
+node29 -- BertPooler(config=config)"]
+	node30 [label="[in: node29]
+node30 -- Linear(in_features=1024, out_features=2, bias=True)"]
+	node1 -> node3
+	node2 -> node3
+	node3 -> node5
+	node4 -> node5
+	node5 -> node6
+	node4 -> node6
+	node6 -> node7
+	node4 -> node7
+	node7 -> node8
+	node4 -> node8
+	node8 -> node9
+	node4 -> node9
+	node9 -> node10
+	node4 -> node10
+	node10 -> node11
+	node4 -> node11
+	node11 -> node12
+	node4 -> node12
+	node12 -> node13
+	node4 -> node13
+	node13 -> node14
+	node4 -> node14
+	node14 -> node15
+	node4 -> node15
+	node15 -> node16
+	node4 -> node16
+	node16 -> node17
+	node4 -> node17
+	node17 -> node18
+	node4 -> node18
+	node18 -> node19
+	node4 -> node19
+	node19 -> node20
+	node4 -> node20
+	node20 -> node21
+	node4 -> node21
+	node21 -> node22
+	node4 -> node22
+	node22 -> node23
+	node4 -> node23
+	node23 -> node24
+	node4 -> node24
+	node24 -> node25
+	node4 -> node25
+	node25 -> node26
+	node4 -> node26
+	node26 -> node27
+	node4 -> node27
+	node27 -> node28
+	node4 -> node28
+	node28 -> node29
+	node29 -> node30
+}

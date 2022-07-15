@@ -1,0 +1,11 @@
+%(import_statements)s
+
+def arch():
+    return "%(arch)s"
+
+def model(%(args)scriterion):
+    %(vlayer_declarations)s
+    # (vlayer_id, sorted [in_node_id], sorted [out_node_id])
+    return [
+        %(model)s
+    ]

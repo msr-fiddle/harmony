@@ -1,0 +1,186 @@
+digraph {
+	node3 [label="[in: node1, node2]
+node3 -- BertEmbeddings(config=config) (vLayer 0)" color=lightblue style=filled]
+	node5 [label="[in: node3, nw_node1]
+node5 -- BertLayer(config=config) (vLayer 1)" color=green style=filled]
+	node6 [label="[in: node5, nw_node2]
+node6 -- BertLayer(config=config) (vLayer 2)" color=grey style=filled]
+	node7 [label="[in: node6, nw_node3]
+node7 -- BertLayer(config=config) (vLayer 3)" color=firebrick1 style=filled]
+	node8 [label="[in: node7, nw_node4]
+node8 -- BertLayer(config=config) (vLayer 4)" color=gold style=filled]
+	node9 [label="[in: node8, nw_node5]
+node9 -- BertLayer(config=config) (vLayer 5)" color=chocolate1 style=filled]
+	node10 [label="[in: node9, nw_node6]
+node10 -- BertLayer(config=config) (vLayer 6)" color=beige style=filled]
+	node11 [label="[in: node10, nw_node7]
+node11 -- BertLayer(config=config) (vLayer 7)" color=lightblue style=filled]
+	node12 [label="[in: node11, nw_node8]
+node12 -- BertLayer(config=config) (vLayer 8)" color=green style=filled]
+	node13 [label="[in: node12, nw_node9]
+node13 -- BertLayer(config=config) (vLayer 9)" color=grey style=filled]
+	node14 [label="[in: node13, nw_node10]
+node14 -- BertLayer(config=config) (vLayer 10)" color=firebrick1 style=filled]
+	node15 [label="[in: node14, nw_node11]
+node15 -- BertLayer(config=config) (vLayer 11)" color=gold style=filled]
+	node16 [label="[in: node15, nw_node12]
+node16 -- BertLayer(config=config) (vLayer 12)" color=chocolate1 style=filled]
+	node17 [label="[in: node16, nw_node13]
+node17 -- BertLayer(config=config) (vLayer 13)" color=beige style=filled]
+	node18 [label="[in: node17, nw_node14]
+node18 -- BertLayer(config=config) (vLayer 14)" color=lightblue style=filled]
+	node19 [label="[in: node18, nw_node15]
+node19 -- BertLayer(config=config) (vLayer 15)" color=green style=filled]
+	node20 [label="[in: node19, nw_node16]
+node20 -- BertLayer(config=config) (vLayer 16)" color=grey style=filled]
+	node21 [label="[in: node20, nw_node17]
+node21 -- BertLayer(config=config) (vLayer 17)" color=firebrick1 style=filled]
+	node22 [label="[in: node21, nw_node18]
+node22 -- BertLayer(config=config) (vLayer 18)" color=gold style=filled]
+	node23 [label="[in: node22, nw_node19]
+node23 -- BertLayer(config=config) (vLayer 19)" color=chocolate1 style=filled]
+	node24 [label="[in: node23, nw_node20]
+node24 -- BertLayer(config=config) (vLayer 20)" color=beige style=filled]
+	node25 [label="[in: node24, nw_node21]
+node25 -- BertLayer(config=config) (vLayer 21)" color=lightblue style=filled]
+	node26 [label="[in: node25, nw_node22]
+node26 -- BertLayer(config=config) (vLayer 22)" color=green style=filled]
+	node27 [label="[in: node26, nw_node23]
+node27 -- BertLayer(config=config) (vLayer 23)" color=grey style=filled]
+	node28 [label="[in: node27, nw_node24]
+node28 -- BertLayer(config=config) (vLayer 24)" color=firebrick1 style=filled]
+	node29 [label="[in: node28]
+node29 -- BertPooler(config=config) (vLayer 25)" color=gold style=filled]
+	node30 [label="[in: node29]
+node30 -- Linear(in_features=1024, out_features=2, bias=True) (vLayer 26)" color=chocolate1 style=filled]
+	node1 [label="[in: ]
+node1 -- Input0 (vLayer 0)" color=lightblue style=filled]
+	node2 [label="[in: ]
+node2 -- Input1 (vLayer 0)" color=lightblue style=filled]
+	node4 [label="[in: ]
+node4 -- Input2 (vLayer 0)" color=lightblue style=filled]
+	nw_node1 [label="[in: node4]
+nw_node1 -- Identity (vLayer 1)" color=green style=filled]
+	nw_node2 [label="[in: nw_node1]
+nw_node2 -- Identity (vLayer 2)" color=grey style=filled]
+	nw_node3 [label="[in: nw_node2]
+nw_node3 -- Identity (vLayer 3)" color=firebrick1 style=filled]
+	nw_node4 [label="[in: nw_node3]
+nw_node4 -- Identity (vLayer 4)" color=gold style=filled]
+	nw_node5 [label="[in: nw_node4]
+nw_node5 -- Identity (vLayer 5)" color=chocolate1 style=filled]
+	nw_node6 [label="[in: nw_node5]
+nw_node6 -- Identity (vLayer 6)" color=beige style=filled]
+	nw_node7 [label="[in: nw_node6]
+nw_node7 -- Identity (vLayer 7)" color=lightblue style=filled]
+	nw_node8 [label="[in: nw_node7]
+nw_node8 -- Identity (vLayer 8)" color=green style=filled]
+	nw_node9 [label="[in: nw_node8]
+nw_node9 -- Identity (vLayer 9)" color=grey style=filled]
+	nw_node10 [label="[in: nw_node9]
+nw_node10 -- Identity (vLayer 10)" color=firebrick1 style=filled]
+	nw_node11 [label="[in: nw_node10]
+nw_node11 -- Identity (vLayer 11)" color=gold style=filled]
+	nw_node12 [label="[in: nw_node11]
+nw_node12 -- Identity (vLayer 12)" color=chocolate1 style=filled]
+	nw_node13 [label="[in: nw_node12]
+nw_node13 -- Identity (vLayer 13)" color=beige style=filled]
+	nw_node14 [label="[in: nw_node13]
+nw_node14 -- Identity (vLayer 14)" color=lightblue style=filled]
+	nw_node15 [label="[in: nw_node14]
+nw_node15 -- Identity (vLayer 15)" color=green style=filled]
+	nw_node16 [label="[in: nw_node15]
+nw_node16 -- Identity (vLayer 16)" color=grey style=filled]
+	nw_node17 [label="[in: nw_node16]
+nw_node17 -- Identity (vLayer 17)" color=firebrick1 style=filled]
+	nw_node18 [label="[in: nw_node17]
+nw_node18 -- Identity (vLayer 18)" color=gold style=filled]
+	nw_node19 [label="[in: nw_node18]
+nw_node19 -- Identity (vLayer 19)" color=chocolate1 style=filled]
+	nw_node20 [label="[in: nw_node19]
+nw_node20 -- Identity (vLayer 20)" color=beige style=filled]
+	nw_node21 [label="[in: nw_node20]
+nw_node21 -- Identity (vLayer 21)" color=lightblue style=filled]
+	nw_node22 [label="[in: nw_node21]
+nw_node22 -- Identity (vLayer 22)" color=green style=filled]
+	nw_node23 [label="[in: nw_node22]
+nw_node23 -- Identity (vLayer 23)" color=grey style=filled]
+	nw_node24 [label="[in: nw_node23]
+nw_node24 -- Identity (vLayer 24)" color=firebrick1 style=filled]
+	node1 -> node3
+	node2 -> node3
+	node3 -> node5
+	nw_node1 -> node5
+	node5 -> node6
+	nw_node2 -> node6
+	node6 -> node7
+	nw_node3 -> node7
+	node7 -> node8
+	nw_node4 -> node8
+	node8 -> node9
+	nw_node5 -> node9
+	node9 -> node10
+	nw_node6 -> node10
+	node10 -> node11
+	nw_node7 -> node11
+	node11 -> node12
+	nw_node8 -> node12
+	node12 -> node13
+	nw_node9 -> node13
+	node13 -> node14
+	nw_node10 -> node14
+	node14 -> node15
+	nw_node11 -> node15
+	node15 -> node16
+	nw_node12 -> node16
+	node16 -> node17
+	nw_node13 -> node17
+	node17 -> node18
+	nw_node14 -> node18
+	node18 -> node19
+	nw_node15 -> node19
+	node19 -> node20
+	nw_node16 -> node20
+	node20 -> node21
+	nw_node17 -> node21
+	node21 -> node22
+	nw_node18 -> node22
+	node22 -> node23
+	nw_node19 -> node23
+	node23 -> node24
+	nw_node20 -> node24
+	node24 -> node25
+	nw_node21 -> node25
+	node25 -> node26
+	nw_node22 -> node26
+	node26 -> node27
+	nw_node23 -> node27
+	node27 -> node28
+	nw_node24 -> node28
+	node28 -> node29
+	node29 -> node30
+	node4 -> nw_node1
+	nw_node1 -> nw_node2
+	nw_node2 -> nw_node3
+	nw_node3 -> nw_node4
+	nw_node4 -> nw_node5
+	nw_node5 -> nw_node6
+	nw_node6 -> nw_node7
+	nw_node7 -> nw_node8
+	nw_node8 -> nw_node9
+	nw_node9 -> nw_node10
+	nw_node10 -> nw_node11
+	nw_node11 -> nw_node12
+	nw_node12 -> nw_node13
+	nw_node13 -> nw_node14
+	nw_node14 -> nw_node15
+	nw_node15 -> nw_node16
+	nw_node16 -> nw_node17
+	nw_node17 -> nw_node18
+	nw_node18 -> nw_node19
+	nw_node19 -> nw_node20
+	nw_node20 -> nw_node21
+	nw_node21 -> nw_node22
+	nw_node22 -> nw_node23
+	nw_node23 -> nw_node24
+}

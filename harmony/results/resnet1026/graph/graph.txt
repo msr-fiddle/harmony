@@ -1,0 +1,1029 @@
+node1 -- Input0 -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node2 -- ConvLayer(inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node3 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node4 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node5 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node6 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node7 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node8 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node9 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node10 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node11 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node12 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node13 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node14 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node15 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node16 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node17 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node18 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node19 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node20 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node21 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node22 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node23 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node24 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node25 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node26 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node27 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node28 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node29 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node30 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node31 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node32 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node33 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node34 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node35 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node36 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node37 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node38 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node39 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node40 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node41 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node42 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node43 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node44 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node45 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node46 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node47 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node48 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node49 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node50 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node51 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node52 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node53 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node54 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node55 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node56 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node57 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node58 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node59 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node60 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node61 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node62 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node63 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node64 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node65 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node66 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node67 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node68 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node69 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node70 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node71 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node72 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node73 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node74 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node75 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node76 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node77 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node78 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node79 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node80 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node81 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node82 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node83 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node84 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node85 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node86 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node87 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node88 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node89 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node90 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node91 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node92 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node93 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node94 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node95 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node96 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node97 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node98 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node99 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node100 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node101 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node102 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node103 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node104 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node105 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node106 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node107 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node108 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node109 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node110 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node111 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node112 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node113 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node114 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node115 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node116 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node117 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node118 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node119 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node120 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node121 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node122 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node123 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node124 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node125 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node126 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node127 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node128 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node129 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node130 -- BasicBlock(inplanes=64, planes=64, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node131 -- BasicBlock(inplanes=64, planes=128, stride=2, has_downsample=True, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node132 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node133 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node134 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node135 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node136 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node137 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node138 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node139 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node140 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node141 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node142 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node143 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node144 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node145 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node146 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node147 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node148 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node149 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node150 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node151 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node152 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node153 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node154 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node155 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node156 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node157 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node158 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node159 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node160 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node161 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node162 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node163 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node164 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node165 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node166 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node167 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node168 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node169 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node170 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node171 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node172 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node173 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node174 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node175 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node176 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node177 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node178 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node179 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node180 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node181 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node182 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node183 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node184 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node185 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node186 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node187 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node188 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node189 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node190 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node191 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node192 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node193 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node194 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node195 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node196 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node197 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node198 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node199 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node200 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node201 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node202 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node203 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node204 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node205 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node206 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node207 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node208 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node209 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node210 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node211 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node212 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node213 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node214 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node215 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node216 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node217 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node218 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node219 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node220 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node221 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node222 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node223 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node224 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node225 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node226 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node227 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node228 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node229 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node230 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node231 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node232 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node233 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node234 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node235 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node236 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node237 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node238 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node239 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node240 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node241 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node242 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node243 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node244 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node245 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node246 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node247 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node248 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node249 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node250 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node251 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node252 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node253 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node254 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node255 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node256 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node257 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node258 -- BasicBlock(inplanes=128, planes=128, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node259 -- BasicBlock(inplanes=128, planes=256, stride=2, has_downsample=True, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node260 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node261 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node262 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node263 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node264 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node265 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node266 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node267 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node268 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node269 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node270 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node271 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node272 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node273 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node274 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node275 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node276 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node277 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node278 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node279 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node280 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node281 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node282 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node283 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node284 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node285 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node286 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node287 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node288 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node289 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node290 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node291 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node292 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node293 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node294 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node295 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node296 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node297 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node298 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node299 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node300 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node301 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node302 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node303 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node304 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node305 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node306 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node307 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node308 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node309 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node310 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node311 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node312 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node313 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node314 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node315 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node316 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node317 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node318 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node319 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node320 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node321 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node322 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node323 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node324 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node325 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node326 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node327 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node328 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node329 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node330 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node331 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node332 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node333 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node334 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node335 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node336 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node337 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node338 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node339 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node340 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node341 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node342 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node343 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node344 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node345 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node346 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node347 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node348 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node349 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node350 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node351 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node352 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node353 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node354 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node355 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node356 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node357 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node358 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node359 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node360 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node361 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node362 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node363 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node364 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node365 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node366 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node367 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node368 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node369 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node370 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node371 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node372 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node373 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node374 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node375 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node376 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node377 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node378 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node379 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node380 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node381 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node382 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node383 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node384 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node385 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node386 -- BasicBlock(inplanes=256, planes=256, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node387 -- BasicBlock(inplanes=256, planes=512, stride=2, has_downsample=True, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node388 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node389 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node390 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node391 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node392 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node393 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node394 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node395 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node396 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node397 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node398 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node399 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node400 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node401 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node402 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node403 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node404 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node405 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node406 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node407 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node408 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node409 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node410 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node411 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node412 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node413 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node414 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node415 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node416 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node417 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node418 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node419 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node420 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node421 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node422 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node423 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node424 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node425 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node426 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node427 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node428 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node429 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node430 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node431 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node432 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node433 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node434 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node435 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node436 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node437 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node438 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node439 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node440 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node441 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node442 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node443 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node444 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node445 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node446 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node447 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node448 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node449 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node450 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node451 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node452 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node453 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node454 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node455 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node456 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node457 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node458 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node459 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node460 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node461 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node462 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node463 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node464 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node465 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node466 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node467 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node468 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node469 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node470 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node471 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node472 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node473 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node474 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node475 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node476 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node477 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node478 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node479 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node480 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node481 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node482 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node483 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node484 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node485 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node486 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node487 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node488 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node489 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node490 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node491 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node492 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node493 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node494 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node495 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node496 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node497 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node498 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node499 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node500 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node501 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node502 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node503 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node504 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node505 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node506 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node507 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node508 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node509 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node510 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node511 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node512 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node513 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node514 -- BasicBlock(inplanes=512, planes=512, stride=1, has_downsample=False, inplace=True) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+node515 -- LinearLayer(expansion=1, num_classes=1000) -- forward_compute_time=0.000, backward_compute_time=0.000, activation_size=0.0, parameter_size=0.000
+	node1 -- node2
+	node2 -- node3
+	node3 -- node4
+	node4 -- node5
+	node5 -- node6
+	node6 -- node7
+	node7 -- node8
+	node8 -- node9
+	node9 -- node10
+	node10 -- node11
+	node11 -- node12
+	node12 -- node13
+	node13 -- node14
+	node14 -- node15
+	node15 -- node16
+	node16 -- node17
+	node17 -- node18
+	node18 -- node19
+	node19 -- node20
+	node20 -- node21
+	node21 -- node22
+	node22 -- node23
+	node23 -- node24
+	node24 -- node25
+	node25 -- node26
+	node26 -- node27
+	node27 -- node28
+	node28 -- node29
+	node29 -- node30
+	node30 -- node31
+	node31 -- node32
+	node32 -- node33
+	node33 -- node34
+	node34 -- node35
+	node35 -- node36
+	node36 -- node37
+	node37 -- node38
+	node38 -- node39
+	node39 -- node40
+	node40 -- node41
+	node41 -- node42
+	node42 -- node43
+	node43 -- node44
+	node44 -- node45
+	node45 -- node46
+	node46 -- node47
+	node47 -- node48
+	node48 -- node49
+	node49 -- node50
+	node50 -- node51
+	node51 -- node52
+	node52 -- node53
+	node53 -- node54
+	node54 -- node55
+	node55 -- node56
+	node56 -- node57
+	node57 -- node58
+	node58 -- node59
+	node59 -- node60
+	node60 -- node61
+	node61 -- node62
+	node62 -- node63
+	node63 -- node64
+	node64 -- node65
+	node65 -- node66
+	node66 -- node67
+	node67 -- node68
+	node68 -- node69
+	node69 -- node70
+	node70 -- node71
+	node71 -- node72
+	node72 -- node73
+	node73 -- node74
+	node74 -- node75
+	node75 -- node76
+	node76 -- node77
+	node77 -- node78
+	node78 -- node79
+	node79 -- node80
+	node80 -- node81
+	node81 -- node82
+	node82 -- node83
+	node83 -- node84
+	node84 -- node85
+	node85 -- node86
+	node86 -- node87
+	node87 -- node88
+	node88 -- node89
+	node89 -- node90
+	node90 -- node91
+	node91 -- node92
+	node92 -- node93
+	node93 -- node94
+	node94 -- node95
+	node95 -- node96
+	node96 -- node97
+	node97 -- node98
+	node98 -- node99
+	node99 -- node100
+	node100 -- node101
+	node101 -- node102
+	node102 -- node103
+	node103 -- node104
+	node104 -- node105
+	node105 -- node106
+	node106 -- node107
+	node107 -- node108
+	node108 -- node109
+	node109 -- node110
+	node110 -- node111
+	node111 -- node112
+	node112 -- node113
+	node113 -- node114
+	node114 -- node115
+	node115 -- node116
+	node116 -- node117
+	node117 -- node118
+	node118 -- node119
+	node119 -- node120
+	node120 -- node121
+	node121 -- node122
+	node122 -- node123
+	node123 -- node124
+	node124 -- node125
+	node125 -- node126
+	node126 -- node127
+	node127 -- node128
+	node128 -- node129
+	node129 -- node130
+	node130 -- node131
+	node131 -- node132
+	node132 -- node133
+	node133 -- node134
+	node134 -- node135
+	node135 -- node136
+	node136 -- node137
+	node137 -- node138
+	node138 -- node139
+	node139 -- node140
+	node140 -- node141
+	node141 -- node142
+	node142 -- node143
+	node143 -- node144
+	node144 -- node145
+	node145 -- node146
+	node146 -- node147
+	node147 -- node148
+	node148 -- node149
+	node149 -- node150
+	node150 -- node151
+	node151 -- node152
+	node152 -- node153
+	node153 -- node154
+	node154 -- node155
+	node155 -- node156
+	node156 -- node157
+	node157 -- node158
+	node158 -- node159
+	node159 -- node160
+	node160 -- node161
+	node161 -- node162
+	node162 -- node163
+	node163 -- node164
+	node164 -- node165
+	node165 -- node166
+	node166 -- node167
+	node167 -- node168
+	node168 -- node169
+	node169 -- node170
+	node170 -- node171
+	node171 -- node172
+	node172 -- node173
+	node173 -- node174
+	node174 -- node175
+	node175 -- node176
+	node176 -- node177
+	node177 -- node178
+	node178 -- node179
+	node179 -- node180
+	node180 -- node181
+	node181 -- node182
+	node182 -- node183
+	node183 -- node184
+	node184 -- node185
+	node185 -- node186
+	node186 -- node187
+	node187 -- node188
+	node188 -- node189
+	node189 -- node190
+	node190 -- node191
+	node191 -- node192
+	node192 -- node193
+	node193 -- node194
+	node194 -- node195
+	node195 -- node196
+	node196 -- node197
+	node197 -- node198
+	node198 -- node199
+	node199 -- node200
+	node200 -- node201
+	node201 -- node202
+	node202 -- node203
+	node203 -- node204
+	node204 -- node205
+	node205 -- node206
+	node206 -- node207
+	node207 -- node208
+	node208 -- node209
+	node209 -- node210
+	node210 -- node211
+	node211 -- node212
+	node212 -- node213
+	node213 -- node214
+	node214 -- node215
+	node215 -- node216
+	node216 -- node217
+	node217 -- node218
+	node218 -- node219
+	node219 -- node220
+	node220 -- node221
+	node221 -- node222
+	node222 -- node223
+	node223 -- node224
+	node224 -- node225
+	node225 -- node226
+	node226 -- node227
+	node227 -- node228
+	node228 -- node229
+	node229 -- node230
+	node230 -- node231
+	node231 -- node232
+	node232 -- node233
+	node233 -- node234
+	node234 -- node235
+	node235 -- node236
+	node236 -- node237
+	node237 -- node238
+	node238 -- node239
+	node239 -- node240
+	node240 -- node241
+	node241 -- node242
+	node242 -- node243
+	node243 -- node244
+	node244 -- node245
+	node245 -- node246
+	node246 -- node247
+	node247 -- node248
+	node248 -- node249
+	node249 -- node250
+	node250 -- node251
+	node251 -- node252
+	node252 -- node253
+	node253 -- node254
+	node254 -- node255
+	node255 -- node256
+	node256 -- node257
+	node257 -- node258
+	node258 -- node259
+	node259 -- node260
+	node260 -- node261
+	node261 -- node262
+	node262 -- node263
+	node263 -- node264
+	node264 -- node265
+	node265 -- node266
+	node266 -- node267
+	node267 -- node268
+	node268 -- node269
+	node269 -- node270
+	node270 -- node271
+	node271 -- node272
+	node272 -- node273
+	node273 -- node274
+	node274 -- node275
+	node275 -- node276
+	node276 -- node277
+	node277 -- node278
+	node278 -- node279
+	node279 -- node280
+	node280 -- node281
+	node281 -- node282
+	node282 -- node283
+	node283 -- node284
+	node284 -- node285
+	node285 -- node286
+	node286 -- node287
+	node287 -- node288
+	node288 -- node289
+	node289 -- node290
+	node290 -- node291
+	node291 -- node292
+	node292 -- node293
+	node293 -- node294
+	node294 -- node295
+	node295 -- node296
+	node296 -- node297
+	node297 -- node298
+	node298 -- node299
+	node299 -- node300
+	node300 -- node301
+	node301 -- node302
+	node302 -- node303
+	node303 -- node304
+	node304 -- node305
+	node305 -- node306
+	node306 -- node307
+	node307 -- node308
+	node308 -- node309
+	node309 -- node310
+	node310 -- node311
+	node311 -- node312
+	node312 -- node313
+	node313 -- node314
+	node314 -- node315
+	node315 -- node316
+	node316 -- node317
+	node317 -- node318
+	node318 -- node319
+	node319 -- node320
+	node320 -- node321
+	node321 -- node322
+	node322 -- node323
+	node323 -- node324
+	node324 -- node325
+	node325 -- node326
+	node326 -- node327
+	node327 -- node328
+	node328 -- node329
+	node329 -- node330
+	node330 -- node331
+	node331 -- node332
+	node332 -- node333
+	node333 -- node334
+	node334 -- node335
+	node335 -- node336
+	node336 -- node337
+	node337 -- node338
+	node338 -- node339
+	node339 -- node340
+	node340 -- node341
+	node341 -- node342
+	node342 -- node343
+	node343 -- node344
+	node344 -- node345
+	node345 -- node346
+	node346 -- node347
+	node347 -- node348
+	node348 -- node349
+	node349 -- node350
+	node350 -- node351
+	node351 -- node352
+	node352 -- node353
+	node353 -- node354
+	node354 -- node355
+	node355 -- node356
+	node356 -- node357
+	node357 -- node358
+	node358 -- node359
+	node359 -- node360
+	node360 -- node361
+	node361 -- node362
+	node362 -- node363
+	node363 -- node364
+	node364 -- node365
+	node365 -- node366
+	node366 -- node367
+	node367 -- node368
+	node368 -- node369
+	node369 -- node370
+	node370 -- node371
+	node371 -- node372
+	node372 -- node373
+	node373 -- node374
+	node374 -- node375
+	node375 -- node376
+	node376 -- node377
+	node377 -- node378
+	node378 -- node379
+	node379 -- node380
+	node380 -- node381
+	node381 -- node382
+	node382 -- node383
+	node383 -- node384
+	node384 -- node385
+	node385 -- node386
+	node386 -- node387
+	node387 -- node388
+	node388 -- node389
+	node389 -- node390
+	node390 -- node391
+	node391 -- node392
+	node392 -- node393
+	node393 -- node394
+	node394 -- node395
+	node395 -- node396
+	node396 -- node397
+	node397 -- node398
+	node398 -- node399
+	node399 -- node400
+	node400 -- node401
+	node401 -- node402
+	node402 -- node403
+	node403 -- node404
+	node404 -- node405
+	node405 -- node406
+	node406 -- node407
+	node407 -- node408
+	node408 -- node409
+	node409 -- node410
+	node410 -- node411
+	node411 -- node412
+	node412 -- node413
+	node413 -- node414
+	node414 -- node415
+	node415 -- node416
+	node416 -- node417
+	node417 -- node418
+	node418 -- node419
+	node419 -- node420
+	node420 -- node421
+	node421 -- node422
+	node422 -- node423
+	node423 -- node424
+	node424 -- node425
+	node425 -- node426
+	node426 -- node427
+	node427 -- node428
+	node428 -- node429
+	node429 -- node430
+	node430 -- node431
+	node431 -- node432
+	node432 -- node433
+	node433 -- node434
+	node434 -- node435
+	node435 -- node436
+	node436 -- node437
+	node437 -- node438
+	node438 -- node439
+	node439 -- node440
+	node440 -- node441
+	node441 -- node442
+	node442 -- node443
+	node443 -- node444
+	node444 -- node445
+	node445 -- node446
+	node446 -- node447
+	node447 -- node448
+	node448 -- node449
+	node449 -- node450
+	node450 -- node451
+	node451 -- node452
+	node452 -- node453
+	node453 -- node454
+	node454 -- node455
+	node455 -- node456
+	node456 -- node457
+	node457 -- node458
+	node458 -- node459
+	node459 -- node460
+	node460 -- node461
+	node461 -- node462
+	node462 -- node463
+	node463 -- node464
+	node464 -- node465
+	node465 -- node466
+	node466 -- node467
+	node467 -- node468
+	node468 -- node469
+	node469 -- node470
+	node470 -- node471
+	node471 -- node472
+	node472 -- node473
+	node473 -- node474
+	node474 -- node475
+	node475 -- node476
+	node476 -- node477
+	node477 -- node478
+	node478 -- node479
+	node479 -- node480
+	node480 -- node481
+	node481 -- node482
+	node482 -- node483
+	node483 -- node484
+	node484 -- node485
+	node485 -- node486
+	node486 -- node487
+	node487 -- node488
+	node488 -- node489
+	node489 -- node490
+	node490 -- node491
+	node491 -- node492
+	node492 -- node493
+	node493 -- node494
+	node494 -- node495
+	node495 -- node496
+	node496 -- node497
+	node497 -- node498
+	node498 -- node499
+	node499 -- node500
+	node500 -- node501
+	node501 -- node502
+	node502 -- node503
+	node503 -- node504
+	node504 -- node505
+	node505 -- node506
+	node506 -- node507
+	node507 -- node508
+	node508 -- node509
+	node509 -- node510
+	node510 -- node511
+	node511 -- node512
+	node512 -- node513
+	node513 -- node514
+	node514 -- node515

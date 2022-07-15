@@ -1,0 +1,85 @@
+digraph {
+	node1 [label="[in: ]
+node1 -- Input0"]
+	node2 [label="[in: node1]
+node2 -- GPT2Embeddings(config=config)"]
+	node3 [label="[in: node2]
+node3 -- GPT2Layer(config=config)"]
+	node4 [label="[in: node3]
+node4 -- GPT2Layer(config=config)"]
+	node5 [label="[in: node4]
+node5 -- GPT2Layer(config=config)"]
+	node6 [label="[in: node5]
+node6 -- GPT2Layer(config=config)"]
+	node7 [label="[in: node6]
+node7 -- GPT2Layer(config=config)"]
+	node8 [label="[in: node7]
+node8 -- GPT2Layer(config=config)"]
+	node9 [label="[in: node8]
+node9 -- GPT2Layer(config=config)"]
+	node10 [label="[in: node9]
+node10 -- GPT2Layer(config=config)"]
+	node11 [label="[in: node10]
+node11 -- GPT2Layer(config=config)"]
+	node12 [label="[in: node11]
+node12 -- GPT2Layer(config=config)"]
+	node13 [label="[in: node12]
+node13 -- GPT2Layer(config=config)"]
+	node14 [label="[in: node13]
+node14 -- GPT2Layer(config=config)"]
+	node15 [label="[in: node14]
+node15 -- GPT2Layer(config=config)"]
+	node16 [label="[in: node15]
+node16 -- GPT2Layer(config=config)"]
+	node17 [label="[in: node16]
+node17 -- GPT2Layer(config=config)"]
+	node18 [label="[in: node17]
+node18 -- GPT2Layer(config=config)"]
+	node19 [label="[in: node18]
+node19 -- GPT2Layer(config=config)"]
+	node20 [label="[in: node19]
+node20 -- GPT2Layer(config=config)"]
+	node21 [label="[in: node20]
+node21 -- GPT2Layer(config=config)"]
+	node22 [label="[in: node21]
+node22 -- GPT2Layer(config=config)"]
+	node23 [label="[in: node22]
+node23 -- GPT2Layer(config=config)"]
+	node24 [label="[in: node23]
+node24 -- GPT2Layer(config=config)"]
+	node25 [label="[in: node24]
+node25 -- GPT2Layer(config=config)"]
+	node26 [label="[in: node25]
+node26 -- GPT2Layer(config=config)"]
+	node27 [label="[in: node26]
+node27 -- GPT2LayerNorm(config=config)"]
+	node28 [label="[in: node27]
+node28 -- GPT2LMHead(config=config)"]
+	node1 -> node2
+	node2 -> node3
+	node3 -> node4
+	node4 -> node5
+	node5 -> node6
+	node6 -> node7
+	node7 -> node8
+	node8 -> node9
+	node9 -> node10
+	node10 -> node11
+	node11 -> node12
+	node12 -> node13
+	node13 -> node14
+	node14 -> node15
+	node15 -> node16
+	node16 -> node17
+	node17 -> node18
+	node18 -> node19
+	node19 -> node20
+	node20 -> node21
+	node21 -> node22
+	node22 -> node23
+	node23 -> node24
+	node24 -> node25
+	node25 -> node26
+	node26 -> node27
+	node27 -> node28
+}
