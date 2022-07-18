@@ -298,8 +298,17 @@ class Profiler(object):
         print("initial iteration finished at batchsize {}".format(umax))
 
     def probe_max_ubatchsize(self, type, data_names, data_tensors, target_names, target_tensors):
-        """ Probe max microbatch size by exponential backoff
-            NOTE: Forward probing and backward probing (and normal profiling) need seperate runs of the entire python program (instead of this function), due to the limitation of PyTorch (i.e., memory leak on OoM exception, see: https://github.com/pytorch/pytorch/issues/27600), which re-pays the initialization overhead of the model. """
+        """ 
+        Probe max microbatch size by multiplicative-increase
+        
+        NOTE: additive-decrease is not used in practice, as it causes repeated program rerun 
+        (esp., model's initialization overhead). This is due to the limitation of PyTorch: 
+        Each OoM causes memory leak (https://github.com/pytorch/pytorch/issues/27600), and 
+        rerun is the only way to recover full GPU memory after OoM.
+        
+        NOTE: Forward probing, backward probing, normal profiling need three seperate runs of 
+        the entire python program, due to the above limitation. 
+        """
         assert type in ('FWD', 'BWD')
         
         print("\n----- probing {}'s max microbatch size -----".format(type))
