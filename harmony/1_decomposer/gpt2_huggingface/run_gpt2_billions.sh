@@ -34,7 +34,7 @@ python3 code_generator.py \
 popd
 
 # ==== GPT2-Billions ====
-for BILLION in 10 # 20 30 40
+for BILLION in 10 20 30 40
 do
 
 MODEL="gpt2_${BILLION}b"

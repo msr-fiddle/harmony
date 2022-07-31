@@ -301,7 +301,7 @@ class Profiler(object):
         """ 
         Probe max microbatch size by multiplicative-increase
         
-        NOTE: additive-decrease is not used in practice, as it causes repeated program rerun 
+        NOTE: additive-increase/decrease is not used in practice, as it causes repeated program rerun 
         (esp., model's initialization overhead). This is due to the limitation of PyTorch: 
         Each OoM causes memory leak (https://github.com/pytorch/pytorch/issues/27600), and 
         rerun is the only way to recover full GPU memory after OoM.

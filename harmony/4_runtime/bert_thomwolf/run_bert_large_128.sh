@@ -54,28 +54,3 @@ python3 -OO main.py \
 --output_dir ${OUT_DIR} \
 # |& tee ${OUT_DIR}/${SCHEDULED}__real_fullspd.txt
 done
-
-# -------------------- Real Data + Train ------------------------
-INIT_MODEL="/workspace/.pretrained_models/BERT-Large-Uncased"
-for SCHEDULED in "D32_vDP_N4_Ufwd8_Ubwd8_P4" "D32_vPP_N4_Ufwd8_Ubwd8_P4"
-do
-echo "Clean Python Processes"
-sleep 1s && pkill -9 python3 && pkill -9 python && sleep 1s
-
-OUT_DIR="./logs/finetune_${MODEL}${SUFFIX}/${SCHEDULED}"
-mkdir -p ${OUT_DIR}
-echo "${SCHEDULED}"
-python3 main.py \
---bert_data_dir "/data/glue/MRPC" \
---bert_seq_length ${SEQLEN} \
---bert_config_path ${CONFIG} \
---bert_model ${INIT_MODEL} \
---module_name ${MODEL} \
---suffix ${SUFFIX} \
---schedule_fname ${SCHEDULED} \
---num_epochs 3 \
---seed 3 \
---output_dir ${OUT_DIR} \
---save_final_model \
-# |& tee ${OUT_DIR}/log.txt
-done

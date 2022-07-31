@@ -8,7 +8,7 @@ do
   do
     for MODE in "vDP" "vPP"
     do
-      for N in 8
+      for N in 1 2 4 8
       do
       echo "Manual"
       python3 scheduler.py \

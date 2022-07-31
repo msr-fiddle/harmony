@@ -7,7 +7,7 @@ for D in 32
 do
   for MODE in "vDP" "vPP"
   do
-    for N in 4
+    for N in 1 2 4
     do
     echo "Manual"
     python3 scheduler.py \
@@ -30,7 +30,7 @@ for D in 32
 do
   for MODE in 'vDP' 'vPP'
   do
-    for N in 4
+    for N in 1 2 4
     do
     echo "Search"
     python3 scheduler.py \

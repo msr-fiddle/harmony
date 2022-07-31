@@ -2,11 +2,11 @@
 MODEL_DIR="../results"
 MODEL="gpt2_medium"
 # -------------- Manual ---------------------------
-for D in 32 # 256
+for D in 32 256
 do
   for MODE in "vDP" "vPP"
   do
-    for N in 2 # 4
+    for N in 1 2 4
     do
     echo "Manual"
     python3 scheduler.py \
@@ -24,11 +24,11 @@ do
   done
 done
 # -------------- Search ---------------------------
-for D in 256
+for D in 32 256
 do
   for MODE in 'vDP' 'vPP'
   do
-    for N in 4
+    for N in 1 2 4
     do
     echo "Search"
     python3 scheduler.py \
