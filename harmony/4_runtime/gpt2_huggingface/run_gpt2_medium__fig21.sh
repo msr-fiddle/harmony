@@ -7,7 +7,7 @@ CONFIG="../../../model_lib/gpt2_configs/gpt2-medium-config.json"
 INIT_MODEL="/workspace/.pretrained_models/GPT2-Medium_Seed42"
 SEED=42
 # -------------------- Train ------------------------
-for SCHEDULED in "D256_vDP_N1_Ufwd2_Ubwd2_P7" "D256_vPP_N4_Ufwd2_Ubwd2_P7" "D256_vDP_N4_Ufwd2_Ubwd2_P7" # "D32_vDP_N2_Ufwd2_Ubwd2_P7" "D32_vPP_N2_Ufwd2_Ubwd2_P7"
+for SCHEDULED in "D256_vDP_N1_Ufwd2_Ubwd2_P7" "D256_vPP_N4_Ufwd2_Ubwd2_P7" "D256_vDP_N4_Ufwd2_Ubwd2_P7" # "D32_vDP_N1_Ufwd2_Ubwd2_P7" "D32_vDP_N2_Ufwd2_Ubwd2_P7" "D32_vPP_N2_Ufwd2_Ubwd2_P7"
 do
 echo "Clean Python Processes"
 sleep 1s && pkill -9 python3 && pkill -9 python && sleep 1s
@@ -35,7 +35,11 @@ done
 
 
 # NOTE:
-# In case of hardware randomness, use following flags (at cost of speed):
-#   export CUDA_LAUNCH_BLOCKING=1 # single-GPU & Harmony DP only
-#   --seed_cudnn
-#   --no_all_prefetch_offload
+# -. Initial models can be downloaded here (https://1drv.ms/u/s!ApfNYtXZyxcLcKg9KbddiUGFp9E?e=WqcHe2).
+# 
+# -. In case of hardware randomness, use following flags (at cost of speed):
+#       export CUDA_LAUNCH_BLOCKING=1 # single-GPU & Harmony DP only
+#       --seed_cudnn
+#       --no_all_prefetch_offload
+#
+# -. Losses need to be moving-averaged.
